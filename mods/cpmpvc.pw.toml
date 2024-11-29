@@ -1,0 +1,13 @@
+name = "Customizable Player Models Plasmo Voice compat"
+filename = "cpm-pv-compat-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gwGrMqDo/versions/SIccgXdg/cpm-pv-compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "d427f5045f84f608c274c2f1136d7da0f93791cf8bcc34162c24dfc8ba85460f047d80f38fe9a2e6fc568d189ee422831802de2bcd341f318b87f60eb698b2f4"
+
+[update]
+[update.modrinth]
+mod-id = "gwGrMqDo"
+version = "SIccgXdg"
