@@ -20,7 +20,7 @@
             "value": false
         },
         "enable_inventory_buttons": {
-            "value": false
+            "value": true
         }
     },
     "Hotkeys": {

@@ -835,11 +835,6 @@ hash = "82ae6d431f59a49d311f0579dec737f17b064ba74969adcad50a633757cf72eb"
 metafile = true
 
 [[files]]
-file = "mods/cpmpvc.pw.toml"
-hash = "d7d3ba8e6adfcd13b2bd74bdabef383ec36bcfcf3dcbc712565d265553430fd2"
-metafile = true
-
-[[files]]
 file = "mods/crafting-station-jei-edition.pw.toml"
 hash = "074244ae35db6bea78b17e390a6c678838d2bbf539bd85a3883b2e6613509898"
 metafile = true
