@@ -17,6 +17,7 @@ by Microsoft [here](https://learn.microsoft.com/en-us/powershell/scripting/insta
 
 ## Credits
 
-[ursamina](https://github.com/ursamina) for modpack creation and maintenance<br/>
+[Lev](https://github.com/LevSychev) Frostpunk-themed additions to the pack<br/>
+[ursamina](https://github.com/ursamina) for creating and maintenaning the base pack<br/>
 [The contributors](https://github.com/GregTechCEu/GregTech-Modern-Community-Pack/graphs/contributors),
 for their useful updates to the pack.
