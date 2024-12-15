@@ -10,7 +10,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/PillagersGun-common.toml"
-hash = "4f406b9bffeff90f353b50f3b245ee7ce187404a0f300900a7b25c4b2f1b2bfa"
+hash = "b9e5b223fa47054faafb375a252ba21217beb1cca8956844840cf2fc91c48140"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -42,7 +42,7 @@ hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
 file = "config/coldsweat/client.toml"
-hash = "5d2dab6d5657f2765882b794308e787f811f9274824755e82bf9928d14caaae9"
+hash = "e71d74f81f683eaba9866735522514ba89ba0834b090b2e5e55f5ebc6a2d100f"
 
 [[files]]
 file = "config/coldsweat/entity.toml"
@@ -58,7 +58,7 @@ hash = "2d92e024236542f8aeaeb5fe99b5f0e11f3406b3dd80bfdd5ce7881ce5f14fb6"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "9d1fd74e24151b0f189bfe1077e37639088c5d10a16930544d86ef8bb4fcc8bc"
+hash = "2bc18e27f24d7bd89250278af524b5b8f80ba581d2558486ff3d5262dd81269b"
 
 [[files]]
 file = "config/cpm.json"
@@ -123,6 +123,10 @@ hash = "a431b4941e306a81a4a7c2c8275d576ec80eed44d6990d415b705b82f87be6fc"
 [[files]]
 file = "config/fml.toml"
 hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "config/fogoverrides.properties"
+hash = "fe597d8a9199b9fb139a3ca124dd379e1846ee677d12c16f26edf4a897fd6e7b"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -546,7 +550,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/primalwinter.toml"
-hash = "f45ce2deb5669ba69f3629257e4a9c6f9e4905bd79ecfd2e2971410ede0da895"
+hash = "8978e32ef1422c39f8863c91bffa3e804400462619655a176bb0c265840cab3b"
 
 [[files]]
 file = "config/shimmer-client.toml"
