@@ -2,13 +2,13 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/copper"
+        "item": "gtceu:copper_plate"
       },
       "count": 10
     },
     {
       "item": {
-        "tag": "forge:gunpowder"
+        "item": "minecraft:gunpowder"
       },
       "count": 2
     }

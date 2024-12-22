@@ -1301,104 +1301,64 @@ file = "config/tacz/custom/tacz_default_gun/tacz/player_animator/rifle_default.p
 hash = "954066beffcd772abe9380790520674ce6115faf4ebc78075b647f20d2f48336"
 
 [[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/12g.json"
-hash = "f4a7019a440977ec39f4fc8647a9a107984ed85d2e709a224ea24d363a46e961"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/308.json"
-hash = "bd6e2803cff88b31cf73848d247621c285b7b2aed4fb59b2902587a2cfaf6e8b"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/338.json"
-hash = "5606c354bb0dc9a984d217392cf716e119ced6f3bbad9ca63b5453ed0f389d5e"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/357mag.json"
-hash = "0d477eb660cf4d1996ff8ada89278619acf79e9837fcd1522265d3c4eb1e766e"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/40mm.json"
-hash = "7ec371b6462fb72f46b98b6b9341628a5b3d6195a57a2a9fb93d9ff4e3337483"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/45acp.json"
-hash = "0f00a2f0cf3d0807743f9cba8db197129d51bb87a030b4f546e609b7205f799f"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/50ae.json"
-hash = "875d70770136e16ced97351962cbfb50a5cd5986052bf9b828f392f51e6d6289"
-
-[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/50bmg.json"
-hash = "06d8a75117a0f69fd6683cf1bcaf6bd334d36579a3d8dcd0e51f1c7e6fe43a18"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/556x45.json"
-hash = "3e42471a73b972463883c37235fea0dd4d2bf389dcfd0ae0a7201bdc2681cc20"
+hash = "af5ceec89d65308af7279ea9b52a959216652c66b16aea95e8255dc99e7de9d5"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/762x39.json"
-hash = "482ac398b0c9f773f43cf19d9009eca1bc01d0e0878315af6ed5fcee28933f6a"
+hash = "1f497e21e7df049d0600f7f0032e96333ad0a9e46d89f98b73b3c863a4b3d39c"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/9mm.json"
-hash = "474790ba180a5a1fa0b85ef004ea58cbb8834dedef6e25382502a1bbf32b1ace"
+hash = "4206e7ea8dad554d942c98db7f273a0d039bd5368ead3665198e7c0bed2a22fc"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/rpg_rocket.json"
-hash = "9ee51bb76f29a70a88d0cba7da930573fc7e0b5e2841c787254006a449d6a878"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/ammo_mod_fmj.json"
-hash = "a924cf90cad0b958b21a0577c16e232f7e990d29b63532ce412bf47ef7074ae1"
+hash = "b2a3efcf513a728b834a10057841c9d1571a276127d61ddd783661600ae2a990"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/ammo_mod_he.json"
 hash = "5797521bdb8c348b0b406b5405ed2f2631afd1068f0b9cb587817550643e23ac"
 
 [[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/ammo_mod_hp.json"
-hash = "63652c07e518f94d51c2bd0a1463b0d78dd76a1944d8d4c3c93d0573ed14da3e"
-
-[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/ammo_mod_i.json"
-hash = "38c5d00f973a80f25568c3d33da06a162f613ac938dca8005315250d98827755"
+hash = "f025383e132ff64d66c4182429ae9f418c69cdddc86326f04aedee0ca0e1cc45"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/extended_mag_3.json"
-hash = "fb27dd2ad6241d9b705b906ce352bb635b6d1003501296ad2d1a8ea70e787db2"
+hash = "c9dd214cbd0e2d5967da6b17275491109267ef7b38c1103963aa24751c46f605"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/light_extended_mag_3.json"
-hash = "39ca74c73d7159f9e4d3a36b568b8ba65572b89c6636be734fc9dbf3f939ab6b"
+hash = "4893fa73601347ae0675494dfef3caaed7b1ca338f77fd26010961f80df081ba"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_lpvo_1_6.json"
-hash = "2d5806d27e10285f8f180d11c2ab615a5036d6c065e3371913b0d1626294902d"
+hash = "4afc2caad6c1a07254179d0b4bd36d0c1bd23698571b8889c8691fa8ade0fead"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_3.json"
-hash = "3fb37463be7720cba50742f39f9399430ca17a89c08783c11384fbff5f3c7b98"
+hash = "b55eb0a6180c986488a2aa13090c1997287794daab8fc435962fbc9a4a4ce018"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/ak47.json"
-hash = "5dacd5378184db0e0c47ab201f97ddbf762527212c060326c3bf0aac90ef6b19"
+hash = "d581e532f765bb374d06b76c3e4b4ec7b0076ea63f35427c1f4550b384d5a24e"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/glock_17.json"
-hash = "e49de46511ccc843ef73fddd89069482917254a1bc6217b370de3baae58a6476"
+hash = "b157264d0d9b0c710544f155c84cff8eb98ce3cab8e3b60f9cf1f5cf638dc382"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/m95.json"
-hash = "d0608b3f203febd11d7e3e3d07a9657bf15184a17cba904740005b31d4a660cd"
+hash = "c14fd279cf5640ff12f78764beaebd9d8e9726f9762128e5d75590206bd6ea2c"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/rpg7.json"
-hash = "120f1956f1ebf6756a8f938d7db95585769bc6358d69fe05876ebca11a10ed09"
+hash = "beba88b0acc307d65929c9b01732e082d51bc12d7872319b845392b4719cf8fa"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/sks_tactical.json"
-hash = "384d39b5f40207b12ded1253179286d288ce19534389ce7f7b1b5af6b88d7dc0"
+hash = "2ce8d526fbd854e562068cb2ab6b66f2c7c7ae5294dfe4647e5a8f209f7ccd59"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/scripts/client/default_rifle.lua"
@@ -3165,6 +3125,22 @@ file = "kubejs/server_scripts/storage_drawers/upgrades.js"
 hash = "bd13a7b35349d3003e0f33d71223e22f74beae731b5a5805b4e556c59ac8c3f4"
 
 [[files]]
+file = "kubejs/server_scripts/tacz/ammo.js"
+hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
+
+[[files]]
+file = "kubejs/server_scripts/tacz/attachments.js"
+hash = "6b4541ea8c22ccc798285ffde1aa9ff19b4f9bd0b906fafe2e3814a1ef1298fc"
+
+[[files]]
+file = "kubejs/server_scripts/tacz/guns.js"
+hash = "577536b4d711f434f70dd98f5c90365b48803eee4a4dc86896782e46cc31ea61"
+
+[[files]]
+file = "kubejs/server_scripts/tacz/intermediates.js"
+hash = "121643d412ddf9e891aadf85bbce2fa5bd08297f0f5eb4ae7da138d7438907f8"
+
+[[files]]
 file = "kubejs/server_scripts/tags/ae2.js"
 hash = "5c87d9314fd7b9e4c1b737b8742f01fc88fccebf7e777b3e67bbbd49b7be3d0a"
 
@@ -3219,6 +3195,10 @@ hash = "b611e4931649648378da167b2cd2c4574614d4efec579959e2d1c87e995f04af"
 [[files]]
 file = "kubejs/startup_scripts/recipes/greenhouse.js"
 hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
+
+[[files]]
+file = "kubejs/startup_scripts/tacz_gun_intermediates.js"
+hash = "af14a3806b13161c70735fafc7e2bdeeb20760ed772dc800fb12d8a3374847e0"
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"

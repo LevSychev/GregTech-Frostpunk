@@ -2,33 +2,27 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:gems/diamond"
+        "item": "kubejs:rifle_base"
       },
-      "count": 15
+      "count": 1
     },
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "item": "gtceu:black_steel_plate"
       },
-      "count": 60
+      "count": 16
     },
     {
       "item": {
-        "tag": "forge:ingots/netherite"
+        "item": "gtceu:stainless_steel_plate"
       },
-      "count": 3
+      "count": 4
     },
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "gtceu:steel_bolt"
       },
-      "count": 300
-    },
-    {
-      "item": {
-        "tag": "forge:rods/blaze"
-      },
-      "count": 5
+      "count": 32
     }
   ],
   "result": {

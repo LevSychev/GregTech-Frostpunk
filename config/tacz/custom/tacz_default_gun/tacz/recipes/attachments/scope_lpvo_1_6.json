@@ -2,27 +2,21 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "steel_plate"
       },
-      "count": 14
+      "count": 1
     },
     {
       "item": {
-        "tag": "forge:gems/amethyst"
+        "tag": "forge:lenses/white"
       },
-      "count": 4
-    },
-    {
-      "item": {
-        "tag": "forge:dusts/glowstone"
-      },
-      "count": 8
+      "count": 1
     },
     {
       "item": {
         "tag": "forge:dusts/redstone"
       },
-      "count": 6
+      "count": 1
     }
   ],
   "result": {

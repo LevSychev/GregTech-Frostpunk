@@ -2,27 +2,33 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "item": "kubejs:rpg_base"
       },
-      "count": 8
+      "count": 1
     },
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "gtceu:black_steel_plate"
       },
-      "count": 70
+      "count": 16
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "item": "gtceu:treated_wood_plate"
       },
       "count": 4
     },
     {
       "item": {
-        "tag": "minecraft:logs"
+        "item": "gtceu:stainless_steel_plate"
       },
-      "count": 10
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "gtceu:steel_bolt"
+      },
+      "count": 16
     }
   ],
   "result": {

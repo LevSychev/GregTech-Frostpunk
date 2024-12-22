@@ -2,21 +2,15 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "gtceu:iron_bolt"
       },
-      "count": 32
+      "count": 4
     },
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "item": "gtceu:stainless_steel_plate"
       },
-      "count": 12
-    },
-    {
-      "item": {
-        "tag": "forge:gems/diamond"
-      },
-      "count": 3
+      "count": 4
     }
   ],
   "result": {

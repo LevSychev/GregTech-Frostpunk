@@ -2,9 +2,21 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "kubejs:pistol_base"
       },
-      "count": 16
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "gtceu:iron_plate"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "gtceu:iron_bolt"
+      },
+      "count": 4
     }
   ],
   "result": {

@@ -2,7 +2,7 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "gtceu:iron_plate"
       },
       "count": 6
     },

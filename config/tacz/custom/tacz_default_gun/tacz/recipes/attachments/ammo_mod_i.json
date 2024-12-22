@@ -2,18 +2,18 @@
   "materials": [
     {
       "item": {
-        "item": "minecraft:crying_obsidian"
+        "item": "gtceu:aluminium_plate"
       },
       "count": 2
     },
     {
       "item": {
-        "item": "minecraft:fire_charge"
+        "item": "minecraft:blaze_powder"
       }
     },
     {
       "item": {
-        "tag": "forge:rods/blaze"
+        "item": "gtceu:phosphorus_dust"
       },
       "count": 4
     }

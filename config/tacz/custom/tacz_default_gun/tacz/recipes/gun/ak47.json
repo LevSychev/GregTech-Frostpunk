@@ -2,21 +2,27 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/iron"
+        "item": "kubejs:rifle_base"
       },
-      "count": 38
+      "count": 1
     },
     {
       "item": {
-        "tag": "forge:gems/lapis"
+        "item": "gtceu:treated_wood_plate"
       },
-      "count": 6
+      "count": 2
     },
     {
       "item": {
-        "tag": "minecraft:logs"
+        "item": "gtceu:steel_plate"
       },
-      "count": 10
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "gtceu:steel_bolt"
+      },
+      "count": 8
     }
   ],
   "result": {
