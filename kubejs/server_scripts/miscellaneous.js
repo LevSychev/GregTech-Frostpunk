@@ -1,11 +1,16 @@
 ServerEvents.recipes((event) => {
+  // Manual sawdust recipe
+  event.shapeless("gtceu:wood_dust", [
+    "#minecraft:planks",
+    "#forge:tools/mortars",
+  ]);
+
   // Void Portal
   event.remove({ id: "javd:portal_block" });
   event.shaped(`javd:portal_block`, ["PPP", "PEP", "PPP"], {
     P: "#forge:plates/obsidian",
     E: "gtceu:ender_pearl_block",
   });
-
 
   // Travel Anchors
   event.remove({ id: "travelanchors:travel_anchor" });

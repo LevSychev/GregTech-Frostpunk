@@ -550,7 +550,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/primalwinter.toml"
-hash = "8978e32ef1422c39f8863c91bffa3e804400462619655a176bb0c265840cab3b"
+hash = "c2123e16ada5ec7b0efa45743479410d11621023173f6a3083e07ff3ca806f44"
 
 [[files]]
 file = "config/shimmer-client.toml"
@@ -1347,14 +1347,6 @@ hash = "d581e532f765bb374d06b76c3e4b4ec7b0076ea63f35427c1f4550b384d5a24e"
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/glock_17.json"
 hash = "b157264d0d9b0c710544f155c84cff8eb98ce3cab8e3b60f9cf1f5cf638dc382"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/m95.json"
-hash = "c14fd279cf5640ff12f78764beaebd9d8e9726f9762128e5d75590206bd6ea2c"
-
-[[files]]
-file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/rpg7.json"
-hash = "beba88b0acc307d65929c9b01732e082d51bc12d7872319b845392b4719cf8fa"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/sks_tactical.json"
@@ -3073,6 +3065,10 @@ file = "kubejs/server_scripts/ender_storage.js"
 hash = "fff340eaab79c1b5054c16d7d0ef4fd2b6d977cceecb4e33f7f2a4a85f229b3e"
 
 [[files]]
+file = "kubejs/server_scripts/food.js"
+hash = "04b7fa19500a2f57ec6712db3894d921af634bcee179c25a5461357f116b0295"
+
+[[files]]
 file = "kubejs/server_scripts/gregtech/components.js"
 hash = "3479e3af0bae6fd37993b89a3a15f28161ed9b4ee2a0adbd754857421cbb7dab"
 
@@ -3094,7 +3090,7 @@ hash = "3ef4090c877d7eae7e7b0426bd25d05e2abf3c1afa1eca49891ca83eb0cdd842"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "0bb9c58d3536c84b89a57ba68b39e97fa7531d1491a3e9852eca5a3e3f263878"
+hash = "dcca388571b7a18f99062f13031cb447db1c0fbac35c3e5952e29db05eb00a46"
 
 [[files]]
 file = "kubejs/server_scripts/open_blocks/elevator.js"
@@ -3106,7 +3102,7 @@ hash = "c0f7355c24b9f386b34837722efd54b4205ebdb7fcd406cefd31d796a3b4a2ec"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "c5509ba4f59b78c350b3a74df72ab83a7021fdaf3b3b33ad30c851ef91a7fe90"
+hash = "da29dd2fb8af4437aed2c730150d688c9e5913a1d559ae36ec788f81fa66696a"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/backpacks.js"
@@ -3134,7 +3130,7 @@ hash = "6b4541ea8c22ccc798285ffde1aa9ff19b4f9bd0b906fafe2e3814a1ef1298fc"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
-hash = "577536b4d711f434f70dd98f5c90365b48803eee4a4dc86896782e46cc31ea61"
+hash = "a0721979070f264612365aaab6d7be2d5338f04ffc0106f9b23ee61afb7eac5d"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/intermediates.js"
@@ -3171,6 +3167,10 @@ hash = "bdbe3251b4b39173618be5ff3450ab6abd3dc7a73db591b61d86a010eb8faabb"
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
 hash = "2df8bceaa0bcb871203b094c657461eb9b78cc4fc20d63d95388d2e1d0f95a2e"
+
+[[files]]
+file = "kubejs/startup_scripts/food_startup.js"
+hash = "f7b7e76ddf40069e3f2b81d0e6ace9b3b97b6b5d12ad0998c0f720f5919f8e8d"
 
 [[files]]
 file = "kubejs/startup_scripts/icons.js"
