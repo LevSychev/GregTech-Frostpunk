@@ -2246,6 +2246,8 @@
 				"Fill it like you would fill a Drum, or with a &3Canning Machine&r."
 				""
 				"Press &4H&r (default) to enable Hover Mode."
+				""
+				"&o&l&cLev's Notes™:&r jetpack recipes have been removed, having creative flight in survival trivialises a lot of things and I don't think it fits the server"
 			]
 			id: "6FA956DAA72D6139"
 			size: 0.5d
@@ -2274,6 +2276,8 @@
 				"Press &4H&r (default) to enable Hover Mode."
 				""
 				"&o&8(Yeah, yeah, a jetpack is supposed to work off \"propellants\". Y'all are always here to nitpick.)&r"
+				""
+				"&o&l&cLev's Notes™:&r jetpack recipes have been removed, having creative flight in survival trivialises a lot of things and I don't think it fits the server"
 			]
 			id: "21F70EACF6D81E6A"
 			size: 0.5d

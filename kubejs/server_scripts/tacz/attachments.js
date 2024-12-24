@@ -30,7 +30,11 @@ ServerEvents.recipes((event) => {
   //scopes
   greg
     .assembler("tacz-greg:scope_lpvo_1_6")
-    .itemInputs("gtceu:steel_plate", "#forge:lenses/white")
+    .itemInputs(
+      "gtceu:steel_plate",
+      "gtceu:diamond_lens",
+      "forge:dusts/redstone"
+    )
     .itemOutputs(
       Item.of("tacz:attachment", '{AttachmentId:"tacz:scope_lpvo_1_6"}')
     )

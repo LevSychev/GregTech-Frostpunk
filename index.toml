@@ -41,26 +41,6 @@ file = "config/clienttweaks-common.toml"
 hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
-file = "config/coldsweat/client.toml"
-hash = "e71d74f81f683eaba9866735522514ba89ba0834b090b2e5e55f5ebc6a2d100f"
-
-[[files]]
-file = "config/coldsweat/entity.toml"
-hash = "2a66b8e3a22fed8f0c7b144bcc7d7f6b587353803b9a677220709c7819a4cbe4"
-
-[[files]]
-file = "config/coldsweat/item.toml"
-hash = "e0725fbefcf73b63d4b74cf769382d0fbc153163435c97434c6303bc17359ac9"
-
-[[files]]
-file = "config/coldsweat/main.toml"
-hash = "2d92e024236542f8aeaeb5fe99b5f0e11f3406b3dd80bfdd5ce7881ce5f14fb6"
-
-[[files]]
-file = "config/coldsweat/world.toml"
-hash = "2bc18e27f24d7bd89250278af524b5b8f80ba581d2558486ff3d5262dd81269b"
-
-[[files]]
 file = "config/cpm.json"
 hash = "9aa959af8b8ec5eb0b7152edcb9b71d3f199d5c8a0e507cf0795929649d01f5e"
 
@@ -158,7 +138,7 @@ hash = "33fc94cf1a78345a1c820d262bd0fdbaf8efd760838a2ffda787b52b15450b69"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gtceu.snbt"
-hash = "0b2dc38203e625452ffb1b80468257a4fd0b2e9282a9e465b7f38db0fe24aa9e"
+hash = "b9a6f722b81513fcea42e8543eb1f8f21871c15d93ee47a5ede371f819bcd41e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/heating_coils.snbt"
@@ -166,7 +146,7 @@ hash = "3de3b8987fbd6652079f9a6f8ff7f0d140753eb94563b31554648a09990d89e1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "90385be837bca14ab93ffccb39c7ab8f98203b17ef36b8e1da67e67af67633ea"
+hash = "95d770e057c94c45afd8e4b79dba27715e70a744889626e842f81064f73a6e72"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
@@ -178,7 +158,7 @@ hash = "b68e2e3c85c5f70f5f1938e31ec228684cc08e823bca4e4170fb92e9339b2670"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "dd1f16de10cc09e5b58e5e5c541a494d53da83766086ac9a991dd94d0956d636"
+hash = "2b3cc0cdc0bacb941862a39c42db606c25f2d474d1dce0b7c6cd4f6890836ad0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
@@ -186,7 +166,7 @@ hash = "c597f716bb540288bd909925586087298edabb66bf5b65b8f353631f05e295ce"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "73ebdb381af3ece3bedea8d9fb636dcad02a9a9bc4dad1cc5dcda7ccae378b1e"
+hash = "d4f06a9c69920171c6866f733f40671efc6a6d2d84930c67c6ca0bde374e28f4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_generation.snbt"
@@ -206,7 +186,7 @@ hash = "070e4c59640dc3014745eb4f2b83f918342a92c7dbec9a44c7e003500de90904"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "0f158da68ab6f94acf0805d8dd7eb6bd5a333ae093b3914e165a8eafdf75c3f8"
+hash = "ff3677fda6281c0a44ba2ddb5503f95686a233870c480521bbc13b85ee924eed"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips_and_tricks_2.snbt"
@@ -2925,6 +2905,22 @@ file = "kubejs/assets/kubejs/textures/item/greg_icon.png"
 hash = "7feb964f52bb75d57247d068c9b71db39fd6e4a59206382085cfb802f150fe74"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/pistol_base.png"
+hash = "6bddfdb2b247918f5677520200ec078c5f924b3cc0951d1103a34b213b6615a8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rifle_base.png"
+hash = "9fff6ecc07662db0f7ff3c4da6ae5c7c09a39ff0833bd1b1e6edd9c757a19055"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rpg_base.png"
+hash = "cbfd5c48dbbc8eca71b5795ee4011248539ac4e23e542acc475a3493d4a6abfc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sawdust_soup.png"
+hash = "390a789956f1004b787c4b9924b6f2a5269a4db02f6445764c48aba01c06e9a3"
+
+[[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/en_us.json"
 hash = "5b59e5067cd2d39c51dcf8e76e3c5b4b2d5ddfa3e453702464d5c56ed3c2f289"
 
@@ -3126,7 +3122,7 @@ hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
-hash = "6b4541ea8c22ccc798285ffde1aa9ff19b4f9bd0b906fafe2e3814a1ef1298fc"
+hash = "aa401d881bb28b6e8102e9627db0e8bf2449fbd15549556ea1a550552d468754"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
@@ -3298,11 +3294,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
-metafile = true
-
-[[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "087dc23d27a349bdba7e4bbde191485859275057445e14648d6b8b8c16048bee"
 metafile = true
 
 [[files]]

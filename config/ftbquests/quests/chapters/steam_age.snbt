@@ -174,6 +174,7 @@
 				"Using your fancy new &3Macerator&r, you'll need to process &d132 Clay&r, split into &d66 Clay Dusts&r and &d66 Brick Dusts&r."
 				""
 				"Build the structure using &4EMI's Multiblock preview tab&r."
+				""
 				"{@pagebreak}"
 				"Steel will be &9of utmost importance&r throughout the entire game, so make sure you keep that PBF running. We should clarify that the PBF isn't the only way to get Steel throughout your playthrough, though!"
 				""
@@ -386,6 +387,8 @@
 				"Getting back on topic, set yourself up for &7LV&r by crafting six &aLV Electric Motors&r! This may seem like a lot, but that's the bare minimum required to get to the good stuff in &7LV&r."
 				""
 				"&6Once you complete this Quest and the Electronic Circuit Quest, you are ready to move on to the LV Age.&r"
+				""
+				"&o&l&cLev's Notes™:&r notes:&r BATCH CRAFT! There's never enough motors and circuits even if you only make the bare minimum amount of machines needed to progress"
 			]
 			icon: "gtceu:lv_electric_motor"
 			id: "5A8F0124E07D5025"
@@ -954,6 +957,8 @@
 				"Circuits are an integral part of progression in GregTech, so keep climbing."
 				""
 				"&6Once you complete this Quest and the LV Motor Quest, you are ready to move on to the LV Age.&r"
+				""
+				"&o&l&cLev's Notes™:&r BATCH CRAFT! There's never enough motors and circuits even if you only make the bare minimum amount of machines needed to progress"
 			]
 			icon: "gtceu:basic_electronic_circuit"
 			id: "4B979482EF026BFF"
@@ -1286,6 +1291,8 @@
 				"The &3Steam Oven&r is a great multiblock option if you need &6effortlessly smelt large quantities of items.&r No more lines of furnaces that you have to manually empty and refuel!"
 				""
 				"It effectively behaves as a parallel furnace, smelting up to 8 items at a time for a low cost of Steam."
+				""
+				"&o&l&cLev's Notes™:&r I would argue this is very much not worth it: it's about as powerful as 5 vanilla furnaces but requires a ton of bronze. Making a vanilla super smelter at least only needs tons of iron"
 				"{@pagebreak}"
 				""
 				"&l&3Lore:&r&o This Multiblock - despite being very similar to its brother, the Steam Grinder - isn't ported from a GregTech version or addon. Its actual progenitor is the Steam Oven from Railcraft, which dates back to 1.4.7!"
@@ -1708,6 +1715,87 @@
 			title: "Aesthetic Ultra"
 			x: -2.1577721088435453d
 			y: 0.7399489795918583d
+		}
+		{
+			dependencies: ["40DE888E6025C646"]
+			description: ["These rifles deal more damage and you can put a scope on them. Craft either of them to complete the quest"]
+			icon: {
+				Count: 1
+				id: "tacz:modern_kinetic_gun"
+				tag: {
+					GunCurrentAmmoCount: 30
+					GunFireMode: "AUTO"
+					GunId: "tacz:ak47"
+					HasBulletInBarrel: 1b
+				}
+			}
+			id: "0AAA66165215B2E9"
+			rewards: [{
+				count: 32
+				id: "5715303DEED3412E"
+				item: {
+					Count: 1
+					id: "tacz:ammo"
+					tag: {
+						AmmoId: "tacz:762x39"
+					}
+				}
+				random_bonus: 16
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7B16FE7D2633E213"
+					item: {
+						Count: 1
+						id: "tacz:modern_kinetic_gun"
+						tag: {
+							GunCurrentAmmoCount: 10
+							GunFireMode: "SEMI"
+							GunId: "tacz:sks_tactical"
+							HasBulletInBarrel: 1b
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "205BD1396C5513CC"
+					item: {
+						Count: 1
+						id: "tacz:modern_kinetic_gun"
+						tag: {
+							GunCurrentAmmoCount: 30
+							GunFireMode: "AUTO"
+							GunId: "tacz:ak47"
+							HasBulletInBarrel: 1b
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "More guns!"
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["40DE888E6025C646"]
+			description: ["The first magazine size upgrade - for your pistol"]
+			id: "038CF072331B07B6"
+			tasks: [{
+				id: "049E677363046799"
+				item: {
+					Count: 1
+					id: "tacz:attachment"
+					tag: {
+						AttachmentId: "tacz:light_extended_mag_3"
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
 		}
 	]
 	subtitle: ["Harness the power of Steam and learn the basics"]

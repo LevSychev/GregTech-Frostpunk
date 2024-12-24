@@ -1499,6 +1499,73 @@
 			x: 9.0d
 			y: -5.25d
 		}
+		{
+			dependencies: ["6958029B5514D4EC"]
+			description: ["The M95 is an extremely strong sniper rifle, it deals 75 damage and I think that by itself explains why I put it here. You can craft it right before going to the End"]
+			id: "685411F8DF9F9967"
+			rewards: [{
+				count: 8
+				id: "561E6BFE91060A86"
+				item: {
+					Count: 1
+					id: "tacz:ammo"
+					tag: {
+						AmmoId: "tacz:50bmg"
+					}
+				}
+				random_bonus: 8
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AEF659008FCD149"
+				item: {
+					Count: 1
+					id: "tacz:modern_kinetic_gun"
+					tag: {
+						GunCurrentAmmoCount: 5
+						GunFireMode: "SEMI"
+						GunId: "tacz:m95"
+						HasBulletInBarrel: 1b
+					}
+				}
+				type: "item"
+			}]
+			title: "Even more guns!"
+			x: 6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["6958029B5514D4EC"]
+			description: ["Another extremely powerful weapon you can make before going to the End. Beware: it destroys blocks!"]
+			id: "7199527B4776E1E5"
+			rewards: [{
+				id: "1ABF8C0EBA8CCBC6"
+				item: {
+					Count: 1
+					id: "tacz:ammo"
+					tag: {
+						AmmoId: "tacz:rpg_rocket"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B97CC5D325CAD2D"
+				item: {
+					Count: 1
+					id: "tacz:modern_kinetic_gun"
+					tag: {
+						GunCurrentAmmoCount: 1
+						GunFireMode: "SEMI"
+						GunId: "tacz:rpg7"
+						HasBulletInBarrel: 1b
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -6.5d
+		}
 	]
 	subtitle: ["Scale up your power and begin advanced chemistry"]
 	title: "&6HV&r - High Voltage"

@@ -917,6 +917,8 @@
 				"You can make your Chemical Reactor auto-output if you &dwrench&r the side of your &3Chemical Reactor&r and enable Fluid &9auto-output&r."
 				""
 				"There will be more Fluids to solidify, so you may re-purpose your &3Fluid Solidifier&r when not crafting Rubber - or make a second one!"
+				""
+				"&o&l&cLev's Notes™:&r for some reason this is gated behind the chemical reactor but it's possible (and a good idea) to make this and the extractor earlier"
 			]
 			id: "581CDF545E1EA1FD"
 			rewards: [{
@@ -1502,6 +1504,8 @@
 				"The reason we didn't present &7LV&r versions of &6Steam&r machines is because they are &4NOT&r required. You might not want to invest into an upgrade that does next to nothing. Except for &othis one&r specifically, because it's a big improvement over the &6Steam Age&r."
 				""
 				"The &3Basic Extractor&r gains Fluid capabilities, which enables &aFluid Extraction&r. Use it to melt Rubber that you previously solidified, to &dmelt Soldering Alloy&r for your circuits, and to &dmelt Red Alloy&r for the &6best Vacuum Tube recipe&r in the &3Assembler&r!"
+				""
+				"&o&l&cLev's Notes™:&r for some reason this is gated behind the assembler but it's possible (and a good idea) to make this and the fluid solidifier earlier"
 				"{@pagebreak}"
 				"&l&3Lore:&r&o Did you notice this machine doubles as both an Extractor and a Fluid Extractor? The two of them were separate machines in previous versions of GregTech."
 			]
@@ -2406,6 +2410,47 @@
 			title: "And they say GregTech is grindy..."
 			x: -1.1012329931972786d
 			y: 2.237499999999997d
+		}
+		{
+			dependencies: ["7A64425597F58015"]
+			description: [
+				"This is the earliest point when you can make a scope, which you can put on an AK-47, SKS and the M95 sniper rifle you'll be able to make in late HV tier"
+				""
+				"When aiming, press &6[Middle click]&r to toggle between 1.5x and 6x zoom"
+			]
+			id: "23F2D4FD6C670808"
+			size: 0.75d
+			tasks: [{
+				id: "70AA530126F1C133"
+				item: {
+					Count: 1
+					id: "tacz:attachment"
+					tag: {
+						AttachmentId: "tacz:scope_lpvo_1_6"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7567E885B7166603"]
+			description: ["When attached to any gun, the bullets get slightly more damage and an ability to set targets on fire"]
+			id: "56D673209EBB155D"
+			tasks: [{
+				id: "480F93B047BDF813"
+				item: {
+					Count: 1
+					id: "tacz:attachment"
+					tag: {
+						AttachmentId: "tacz:ammo_mod_i"
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.5d
 		}
 	]
 	subtitle: ["Tame electricity and make your first machines"]
