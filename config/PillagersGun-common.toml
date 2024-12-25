@@ -34,7 +34,7 @@
 	"Assault Rifle Chance" = 0.2
 	#The power of assault rifle bullet.
 	#Range: 0 ~ 5000
-	"Assault Rifle Power" = 12
+	"Assault Rifle Power" = 10
 	#The percentage of assault rifle bullet damage that ignore armor.
 	#Range: 0.0 ~ 1.0
 	"Assault Rifle Bypass Armor Chance" = 0.25

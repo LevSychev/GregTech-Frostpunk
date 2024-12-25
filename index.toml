@@ -1314,7 +1314,7 @@ hash = "4893fa73601347ae0675494dfef3caaed7b1ca338f77fd26010961f80df081ba"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_lpvo_1_6.json"
-hash = "4afc2caad6c1a07254179d0b4bd36d0c1bd23698571b8889c8691fa8ade0fead"
+hash = "6f7dbabaa0cdacdd92e0efd8b2bcba8e7601f16e7d7cc4f378fc8f27c94faa88"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_3.json"
@@ -3122,7 +3122,7 @@ hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
-hash = "aa401d881bb28b6e8102e9627db0e8bf2449fbd15549556ea1a550552d468754"
+hash = "56b71268319236bed6efd3f330c632662c3b1619c7384767bc6b5cb574436314"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
@@ -3349,11 +3349,6 @@ metafile = true
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "7d4ade96e0688b675076c5cce2068e96e9f374b2e7d9fac2529898f57d22c4d5"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "a2daf59835c14f2c37ef6494ff7faf6cbcad02b06c38478ed0dca4085046da41"
 metafile = true
 
 [[files]]
@@ -3647,6 +3642,11 @@ hash = "830a3f07be995badf36595ab24c1d2cf77610e761b2edc8fcc4a2cfb573b0406"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "a4b08e52d3a6f5ed9fa1b3124b64d1d9b29845d80da284474654a719739ed5c7"
 metafile = true
@@ -3674,6 +3674,11 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "765945f0ae2960eb0cbffeb746b6d98a483b8fb673ce30c48f53c1bb39c1ec5c"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
 metafile = true
 
 [[files]]
