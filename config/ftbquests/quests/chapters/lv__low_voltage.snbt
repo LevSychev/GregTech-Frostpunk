@@ -2450,23 +2450,44 @@
 		{
 			dependencies: ["7A64425597F58015"]
 			description: [
-				"This is the earliest point when you can make a scope, which you can put on an AK-47, SKS and the M95 sniper rifle you'll be able to make in late HV tier"
+				"This is the earliest point when you can make a scope, which you can put on an AK-47, SKS and the M95 sniper rifle you'll be able to make in late HV tier. Also you can make a red dot sight for your pistol to aim easier"
 				""
 				"When aiming, press &6[Middle click]&r to toggle between 1.5x and 6x zoom"
 			]
+			icon: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:scope_lpvo_1_6"
+				}
+			}
 			id: "23F2D4FD6C670808"
 			size: 0.75d
-			tasks: [{
-				id: "70AA530126F1C133"
-				item: {
-					Count: 1
-					id: "tacz:attachment"
-					tag: {
-						AttachmentId: "tacz:scope_lpvo_1_6"
+			tasks: [
+				{
+					id: "70AA530126F1C133"
+					item: {
+						Count: 1
+						id: "tacz:attachment"
+						tag: {
+							AttachmentId: "tacz:scope_lpvo_1_6"
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "22B8108AD325F9A8"
+					item: {
+						Count: 1
+						id: "tacz:attachment"
+						tag: {
+							AttachmentId: "tacz:sight_sro_dot"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Scopes"
 			x: 1.5d
 			y: 6.0d
 		}

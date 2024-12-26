@@ -1718,7 +1718,7 @@
 		}
 		{
 			dependencies: ["40DE888E6025C646"]
-			description: ["These rifles deal more damage and you can put a scope on them. Craft either of them to complete the quest"]
+			description: ["These rifles deal more damage and you can put more attachments on them. Craft either of them to complete the quest"]
 			icon: {
 				Count: 1
 				id: "tacz:modern_kinetic_gun"
@@ -1781,7 +1781,7 @@
 		}
 		{
 			dependencies: ["40DE888E6025C646"]
-			description: ["The first magazine size upgrade - for your pistol"]
+			description: ["The first magazine size upgrade - for your pistol. In later chapters you'll unlock extended mags for rifles and sniper rifles"]
 			id: "038CF072331B07B6"
 			tasks: [{
 				id: "049E677363046799"
@@ -1796,6 +1796,71 @@
 			}]
 			x: 3.5d
 			y: -2.5d
+		}
+		{
+			dependencies: [
+				"40DE888E6025C646"
+				"77EA56D16A9B3BFC"
+			]
+			description: ["These attachments help greatly with recoil from your AK and SKS. For some reason I wasn't able to add their recipes to assemblers. Too bad!"]
+			icon: {
+				Count: 1
+				id: "tacz:attachment"
+				tag: {
+					AttachmentId: "tacz:stock_militech_b5"
+				}
+			}
+			id: "40C2835F623D8E4C"
+			rewards: [{
+				count: 16
+				id: "3C36CB363FC21604"
+				item: {
+					Count: 1
+					id: "tacz:ammo"
+					tag: {
+						AmmoId: "tacz:762x39"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "77C72F6306CE7479"
+					item: {
+						Count: 1
+						id: "tacz:attachment"
+						tag: {
+							AttachmentId: "tacz:muzzle_compensator_trident"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "61686932A1085821"
+					item: {
+						Count: 1
+						id: "tacz:attachment"
+						tag: {
+							AttachmentId: "tacz:stock_militech_b5"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "63A20D55F814EE4A"
+					item: {
+						Count: 1
+						id: "tacz:attachment"
+						tag: {
+							AttachmentId: "tacz:grip_magpul_afg_2"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Kitted out!"
+			x: 9.0d
+			y: -1.5d
 		}
 	]
 	subtitle: ["Harness the power of Steam and learn the basics"]

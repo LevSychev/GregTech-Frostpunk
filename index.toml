@@ -134,11 +134,11 @@ hash = "cc7b7524a1409711280d59e9af31b93d161cb654981abb0b2ea945111734fd3d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
-hash = "33fc94cf1a78345a1c820d262bd0fdbaf8efd760838a2ffda787b52b15450b69"
+hash = "9dad87319ba55aa045f37fc16350cd9dcf7826e946419dac6d6bf7f2d5cb607e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gtceu.snbt"
-hash = "02bbc2fa7cea986195252eeed3b00c089730af61060d7c04e3fbd4ce5c2821ec"
+hash = "d4eb4830abc49d9de08262ff5c3f3986977e77eb6570f717f58b43551c74420b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/heating_coils.snbt"
@@ -158,7 +158,7 @@ hash = "b68e2e3c85c5f70f5f1938e31ec228684cc08e823bca4e4170fb92e9339b2670"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "1da7c29862cd38c17564ca538313f5e643a88f41e87215fd9a5b849d34f2c2e9"
+hash = "04338fc21cb260cc240bc6ca37611235f613fb754303a697d96b583bb16fdbbd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
@@ -186,7 +186,7 @@ hash = "070e4c59640dc3014745eb4f2b83f918342a92c7dbec9a44c7e003500de90904"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "10d8dc50a75f1536c5e37c81008eae90a1b0b5931ab528124f901338341c8b8d"
+hash = "81ccfa2cf1da8942fc2cfca992688c24966355fde4ea01cb4a7e6f4cae6d2ad0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips_and_tricks_2.snbt"

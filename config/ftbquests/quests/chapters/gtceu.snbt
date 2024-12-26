@@ -1669,7 +1669,7 @@
 			description: [
 				"This is the first gun you can make in this pack. You may have a bow at this point but guns are more accurate and the ammo is crafted more efficiently"
 				""
-				"Hold &6[Right Click]&r to aim, &6[X]&r to view attachments, &6[R]&r to reload"
+				"Hold &6[Right Click]&r to aim, &6[X]&r to view attachments, &6[R]&r to reload. You can also hold &6[Alt]&r to crawl"
 			]
 			id: "601635C80A9636C8"
 			rewards: [{

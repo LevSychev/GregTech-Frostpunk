@@ -1963,6 +1963,8 @@
 				"To &denable charging&r, sneak right-click with it in your hand, then equip it (There may be an occasional bug where it refuses to charge, but you'll forgive us, right?)."
 				""
 				"Note that this stores &oa lot&r of energy, and uses it fairly fast. You may want to invest in a &3HV Turbo Charger&r."
+				""
+				"&o&l&cLev's Notes™:&r jetpack recipes (including the jetpack used to make this chestplate) have been removed, having creative flight in survival trivialises a lot of things and I don't think it fits the server"
 			]
 			icon: {
 				Count: 1
