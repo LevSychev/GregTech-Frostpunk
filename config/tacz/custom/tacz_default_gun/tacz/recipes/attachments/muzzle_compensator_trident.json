@@ -1,0 +1,20 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "gtceu:steel_plate"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "gtceu:rubber_plate"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_compensator_trident"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "gtceu:steel_plate"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "gtceu:ruby_lens"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:sight_sro_dot"
+  }
+}

@@ -10,7 +10,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/PillagersGun-common.toml"
-hash = "b9e5b223fa47054faafb375a252ba21217beb1cca8956844840cf2fc91c48140"
+hash = "74c813d24fe5353ae4b40c4049e4e97785fb615d835024370b94f72bfb8d8ba4"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -66,11 +66,11 @@ hash = "c0e7f7bb0e06a3c8123e5c2190290a6d37435e92f407eb7ba265ce11939bca20"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "24c0a69167d0a966ef553cdafea4ed46d967acf0b8ce206e7890c5697c150267"
+hash = "f8e87b0d325e66adc0370b0794e68d0d340abd6778b53aa661e204fc915f4e90"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7fbf1a7a900a7294102ce0bb406470084d0054d57df53440de3607135fb6ccba"
+hash = "d58874203626903f802fe5328b4cf7f9a9ca4cb117444ae8b8275c839d2c61af"
 
 [[files]]
 file = "config/emi.css"
@@ -126,7 +126,7 @@ hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
 file = "config/ftbbackups2.json"
-hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
+hash = "3c639c73578d698376d370c0aa3d85b195a09327d1a5657a2305ba142805d8da"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -530,7 +530,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/primalwinter.toml"
-hash = "c2123e16ada5ec7b0efa45743479410d11621023173f6a3083e07ff3ca806f44"
+hash = "a3d9b2e3a667a6f7bf2478b936ea3f7ebee62ea01ab88b8f778250a0fda3fff6"
 
 [[files]]
 file = "config/shimmer-client.toml"
@@ -1309,16 +1309,32 @@ file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/extended_ma
 hash = "c9dd214cbd0e2d5967da6b17275491109267ef7b38c1103963aa24751c46f605"
 
 [[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/grip_magpul_afg_2.json"
+hash = "7e501069ae9c888bd05d26444d7f9588dbbd73066bb0e866c318fdc754d8a520"
+
+[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/light_extended_mag_3.json"
 hash = "4893fa73601347ae0675494dfef3caaed7b1ca338f77fd26010961f80df081ba"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/muzzle_compensator_trident.json"
+hash = "971da12bf3fe3e24aaf3c42a946406108e44cd3de27e5514c5cc65afbae99d1e"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/scope_lpvo_1_6.json"
 hash = "6f7dbabaa0cdacdd92e0efd8b2bcba8e7601f16e7d7cc4f378fc8f27c94faa88"
 
 [[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sight_sro_dot.json"
+hash = "a86e950af9e110c895872a31643977fcc672e3c662554e917dd58b855036d63f"
+
+[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/sniper_extended_mag_3.json"
 hash = "b55eb0a6180c986488a2aa13090c1997287794daab8fc435962fbc9a4a4ce018"
+
+[[files]]
+file = "config/tacz/custom/tacz_default_gun/tacz/recipes/attachments/stock_militech_b5.json"
+hash = "1f5d30284d3279a1d28d9ccf120b258f124ecf4e618a62c9020130ea36364187"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/gun/ak47.json"
@@ -3098,7 +3114,7 @@ hash = "c0f7355c24b9f386b34837722efd54b4205ebdb7fcd406cefd31d796a3b4a2ec"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "da29dd2fb8af4437aed2c730150d688c9e5913a1d559ae36ec788f81fa66696a"
+hash = "31d030ebbea417bfaf757fdadf00075c5189fe125b84b85809352f6dff9ec1b1"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/backpacks.js"
@@ -3122,7 +3138,7 @@ hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
-hash = "56b71268319236bed6efd3f330c632662c3b1619c7384767bc6b5cb574436314"
+hash = "8b3a6b1b9d376882f569f241111aab7bb0c8397b31ca3f5961fbcf8795d54621"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
@@ -3158,7 +3174,7 @@ hash = "86a7d1aedc582604057fe23eed46a91e65484eb308945fa94d07567e61f5bf67"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla/vanilla.js"
-hash = "bdbe3251b4b39173618be5ff3450ab6abd3dc7a73db591b61d86a010eb8faabb"
+hash = "4fd590a1ad927ad1cff51323bb3f01354cb78edd3c3841c8c5e4fc789ce0c90a"
 
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
@@ -3171,6 +3187,10 @@ hash = "f7b7e76ddf40069e3f2b81d0e6ace9b3b97b6b5d12ad0998c0f720f5919f8e8d"
 [[files]]
 file = "kubejs/startup_scripts/icons.js"
 hash = "509f876d9767bf536a5452021bef3dff8cf1d10345f2b4aba8d2df529763edbe"
+
+[[files]]
+file = "kubejs/startup_scripts/intermediates.js"
+hash = "c8095356ec02f2320bb4139ed8857a749fc7a7ea98f944e72273d70646e299a3"
 
 [[files]]
 file = "kubejs/startup_scripts/machinery/construction_core.js"
@@ -3191,10 +3211,6 @@ hash = "b611e4931649648378da167b2cd2c4574614d4efec579959e2d1c87e995f04af"
 [[files]]
 file = "kubejs/startup_scripts/recipes/greenhouse.js"
 hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
-
-[[files]]
-file = "kubejs/startup_scripts/tacz_gun_intermediates.js"
-hash = "af14a3806b13161c70735fafc7e2bdeeb20760ed772dc800fb12d8a3374847e0"
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
@@ -3683,12 +3699,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
+hash = "f1b130bfacad77032c6dc45119ecda63ea7189a71206853a1ba6c344d77d2280"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
+hash = "54ad33cf1eb06e8bd5179706f90eedbda07eb60216f1bd40017c205caa2fbf4e"
 metafile = true
 
 [[files]]

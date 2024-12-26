@@ -5,6 +5,49 @@ ServerEvents.recipes((event) => {
   event.remove({ id: "gtceu:shapeless/blaze_rod_to_powder" });
   event.remove({ id: "minecraft:ender_eye" });
 
+  //engine intermediate
+  greg
+    .assembler("engine_intermediate_idk")
+    .itemInputs(
+      "gtceu:mv_electric_motor",
+      "2x gtceu:mv_electric_piston",
+      "gtceu:copper_single_cable",
+      "4x gtceu:steel_plate",
+      "4x gtceu:steel_screw"
+    )
+    .itemOutputs("kubejs:engine")
+    .duration(200)
+    .EUt(30);
+  //Oak boat
+  greg
+    .assembler("gregified_boat_oak")
+    .itemInputs(
+      "kubejs:engine",
+      "4x gtceu:long_steel_rod",
+      "6x gtceu:treated_wood_plate",
+      "4x gtceu:steel_screw",
+      "#gtceu:circuits/mv",
+      "2x hangglider:glider_framework"
+    )
+    .itemOutputs("minecraft:oak_boat")
+    .duration(200)
+    .EUt(30)
+    .circuit(1);
+  //Spruce boat
+  greg
+    .assembler("gregified_boat_spruce")
+    .itemInputs(
+      "kubejs:engine",
+      "4x gtceu:long_steel_rod",
+      "6x gtceu:treated_wood_plate",
+      "4x gtceu:steel_screw",
+      "#gtceu:circuits/mv",
+      "2x hangglider:glider_framework"
+    )
+    .itemOutputs("minecraft:spruce_boat")
+    .duration(200)
+    .EUt(30)
+    .circuit(2);
   //Ghast Tear
   greg
     .chemical_reactor("gtceu:ghast_tear")
@@ -80,9 +123,11 @@ ServerEvents.recipes((event) => {
       Potion: "minecraft:fire_resistance",
     }),
     [
-      Item.of("minecraft:potion").withNBT({
-        Potion: "minecraft:water",
-      }).strongNBT(),
+      Item.of("minecraft:potion")
+        .withNBT({
+          Potion: "minecraft:water",
+        })
+        .strongNBT(),
       "#forge:dusts/sugar",
       "#forge:dusts/stone",
       "#forge:dusts/lead",
@@ -93,9 +138,11 @@ ServerEvents.recipes((event) => {
       Potion: "minecraft:long_fire_resistance",
     }),
     [
-      Item.of("minecraft:potion").withNBT({
-        Potion: "minecraft:water",
-      }).strongNBT(),
+      Item.of("minecraft:potion")
+        .withNBT({
+          Potion: "minecraft:water",
+        })
+        .strongNBT(),
       "#forge:dusts/redstone",
       "#forge:dusts/sugar",
       "#forge:dusts/stone",
@@ -133,10 +180,14 @@ ServerEvents.recipes((event) => {
     .duration(150)
     .EUt(100);
 
-  event.shaped(Item.of('minecraft:enchanted_book').enchant('minecraft:silk_touch', 1), ["RWR", "WBW", "RmR"], {
-    R: "#forge:plates/rubber",
-    W: "#minecraft:wool",
-    B: "minecraft:book",
-    m: "#forge:tools/mallets"
-  });
+  event.shaped(
+    Item.of("minecraft:enchanted_book").enchant("minecraft:silk_touch", 1),
+    ["RWR", "WBW", "RmR"],
+    {
+      R: "#forge:plates/rubber",
+      W: "#minecraft:wool",
+      B: "minecraft:book",
+      m: "#forge:tools/mallets",
+    }
+  );
 });

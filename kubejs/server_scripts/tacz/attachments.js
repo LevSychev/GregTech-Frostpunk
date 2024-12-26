@@ -41,6 +41,15 @@ ServerEvents.recipes((event) => {
     .duration(600)
     .EUt(24);
 
+  greg
+    .assembler("tacz-greg:sight_sro_dot")
+    .itemInputs("gtceu:steel_plate", "gtceu:ruby_lens")
+    .itemOutputs(
+      Item.of("tacz:attachment", '{AttachmentId:"tacz:sight_sro_dot"}')
+    )
+    .duration(600)
+    .EUt(24);
+
   //incendiary upgrade
   greg
     .assembler("tacz-greg:ammo_mod_incendiary")
@@ -52,4 +61,39 @@ ServerEvents.recipes((event) => {
     .itemOutputs(Item.of("tacz:attachment", '{AttachmentId:"tacz:ammo_mod_i"}'))
     .duration(600)
     .EUt(24);
+
+  //stocks
+  /* - doesn't fucking work I'm outta here
+  greg
+    .assembler("tacz:stock_militech_b5")
+    .itemInputs("2x gtceu:steel_plate", "3x gtceu:rubber_plate")
+    .itemOutputs(
+      Item.of("tacz:attachment", '{AttachmentId:"tacz:stock_militech_b5"}')
+    )
+    .duration(600)
+    .EUt(24);
+
+  //grips
+  greg
+    .assembler("tacz-greg:grip_magpul_afg_2")
+    .itemInputs("3x gtceu:steel_plate", "2x gtceu:rubber_plate")
+    .itemOutputs(
+      Item.of("tacz:attachment", '{AttachmentId:"tacz:grip_magpul_afg_2"}')
+    )
+    .duration(600)
+    .EUt(24);
+
+  //compensators
+  greg
+    .assembler("tacz-greg:muzzle_compensator_tridenttttt")
+    .itemInputs("2x gtceu:steel_plate", "2x gtceu:rubber_plate")
+    .itemOutputs(
+      Item.of(
+        "tacz:attachment",
+        '{AttachmentId:"tacz:muzzle_compensator_trident"}'
+      )
+    )
+    .duration(600)
+    .EUt(24);
+  */
 });
