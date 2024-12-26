@@ -1,12 +1,12 @@
 name = "GregTech Frostpunk"
 author = "Lev Sychev"
-version = "1.12.1"
+version = "1.13.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "86b8b8d73f99a70138ee23e9bd5cfd67067e28f21933138a3751d9d51508c292"
+hash = "885c107ea1fb44270e3138a3864e85f05cea251e3d5be78ead7d4a150c897da8"
 
 [versions]
 forge = "47.3.6"

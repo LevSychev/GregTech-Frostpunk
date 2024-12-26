@@ -138,7 +138,7 @@ hash = "33fc94cf1a78345a1c820d262bd0fdbaf8efd760838a2ffda787b52b15450b69"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gtceu.snbt"
-hash = "a4f9065e203214eaeb1eb7e27b4c19bd34b703de5fe80f29240e7c7177388716"
+hash = "02bbc2fa7cea986195252eeed3b00c089730af61060d7c04e3fbd4ce5c2821ec"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/heating_coils.snbt"
@@ -146,7 +146,7 @@ hash = "3de3b8987fbd6652079f9a6f8ff7f0d140753eb94563b31554648a09990d89e1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "94888d20a22ba93f64b2242763f1cb69f6691075457181e00a5ee4377752c08e"
+hash = "6a85ad81673fcaf8724547426b8001be2e2bd6c54eee72115297d98290b43dab"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
@@ -158,7 +158,7 @@ hash = "b68e2e3c85c5f70f5f1938e31ec228684cc08e823bca4e4170fb92e9339b2670"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "294bc97151e9ec56117e8d9eb4adf3f4641e37499ef1c106eef6c59b5eaea8b9"
+hash = "1da7c29862cd38c17564ca538313f5e643a88f41e87215fd9a5b849d34f2c2e9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
@@ -166,7 +166,7 @@ hash = "c597f716bb540288bd909925586087298edabb66bf5b65b8f353631f05e295ce"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "54410de26f46f019b00dc931bec2e1c25230fe4d09add1a4bded2116fc8ed297"
+hash = "a41e3ed2a36798ee628db634aaa6c828ed3983ebb561cd719e872fbd5258b2d9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_generation.snbt"
@@ -186,7 +186,7 @@ hash = "070e4c59640dc3014745eb4f2b83f918342a92c7dbec9a44c7e003500de90904"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "79aacdd763f925144471eca4097e424d41d6420d195e6118144c2b6e7138ac07"
+hash = "10d8dc50a75f1536c5e37c81008eae90a1b0b5931ab528124f901338341c8b8d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips_and_tricks_2.snbt"
@@ -3142,7 +3142,7 @@ hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
-hash = "8b3a6b1b9d376882f569f241111aab7bb0c8397b31ca3f5961fbcf8795d54621"
+hash = "2110f5d6d293b7954669777ffd6a166ab8f90c80e0a4f2dd798ad8eb5ceb9b8a"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
