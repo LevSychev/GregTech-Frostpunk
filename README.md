@@ -6,7 +6,7 @@ A modpack based on Gregtech Community Pack Modern, created for my private server
 - Primal Winter
 - Timeless and Classics: Zero (with gregified recipes)
 
-## Planned featers
+## Planned features
 - Cold Sweat (and config/datapack that makes gregtech machines and pipes emit heat)
 
 ## Building
