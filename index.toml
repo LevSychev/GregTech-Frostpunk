@@ -6,7 +6,7 @@ hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
+hash = "b19efe9f454a79092676204dd1e0dca31103291d09fc657e6d08bb0c9fe06143"
 
 [[files]]
 file = "config/PillagersGun-common.toml"
@@ -255,22 +255,6 @@ hash = "5461e6a5d55833ac4e7c4147a41661fa77ae4b921e7beae7f1d307416a7c517a"
 [[files]]
 file = "config/inventoryessentials-common.toml"
 hash = "2696133bf8a18d3811868bbbc8bba93a3d79dda3aadeaa81ed78984b0538833b"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/ae2.json"
-hash = "9e20c2ca2dbd1a0cf159dc97a2a522dba0d2d9e989fe4634229a124e69b085a1"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "05817cc08fce1aba90b0adf4b6cde4c0e6e759f106fe29ed803f0da624a92ab4"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "d1642f67522c5329fe10bdc267d8eb4272bdcc0407d59c9877e6fef6809e8992"
 
 [[files]]
 file = "config/inventorysorter-client.toml"
@@ -3477,13 +3461,18 @@ hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "9bd757c1ac41f77280b388da33a76fec9712c8f15cf914a13e5e664773191d1a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "fd0787257d819af194fc1ef52c17d72b1d9e20d5102c5b7d151fd52a1459365d"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ae8fe9f3fd2dbb6c2218aee375590c79006e38312d351339d35ff3681fa975e2"
+file = "mods/inventory-sorter-configurable.pw.toml"
+hash = "54a9de45f06ffa293e98b341a3e60ac1d993e7c42b18ab4648d3ec8bc9671566"
 metafile = true
 
 [[files]]
@@ -3514,11 +3503,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
 metafile = true
 
 [[files]]
