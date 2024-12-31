@@ -5,6 +5,13 @@ ServerEvents.recipes((event) => {
   event.remove({ id: "gtceu:shapeless/blaze_rod_to_powder" });
   event.remove({ id: "minecraft:ender_eye" });
 
+  //treated wood pulp from plank
+  greg
+    .macerator("gtceu:treated_wood_dust_from_plank")
+    .itemInputs("gtceu:treated_wood_planks")
+    .itemOutputs("gtceu:treated_wood_dust")
+    .duration(120)
+    .EUt(2);
   //engine intermediate
   greg
     .assembler("engine_intermediate_idk")
@@ -27,7 +34,9 @@ ServerEvents.recipes((event) => {
       "6x gtceu:treated_wood_plate",
       "4x gtceu:steel_screw",
       "#gtceu:circuits/mv",
-      "2x hangglider:glider_framework"
+      "2x hangglider:glider_framework",
+      "4x gtceu:rubber_plate",
+      "4x gtceu:polyethylene_plate"
     )
     .itemOutputs("minecraft:oak_boat")
     .duration(200)
@@ -42,7 +51,9 @@ ServerEvents.recipes((event) => {
       "6x gtceu:treated_wood_plate",
       "4x gtceu:steel_screw",
       "#gtceu:circuits/mv",
-      "2x hangglider:glider_framework"
+      "2x hangglider:glider_framework",
+      "4x gtceu:rubber_plate",
+      "4x gtceu:polyethylene_plate"
     )
     .itemOutputs("minecraft:spruce_boat")
     .duration(200)

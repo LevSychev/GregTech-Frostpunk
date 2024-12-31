@@ -2905,6 +2905,10 @@ file = "kubejs/assets/gtceu/lang/en_us.json"
 hash = "6f50f194fdacf3297b259459fbc81e5e4defc9cf7a14666a8fefc22cb176b4dc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/engine.png"
+hash = "b0782c6cee4be50a7f047c40068ab737b44532055ed3d6fa41c282192e21e262"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/greg_icon.png"
 hash = "7feb964f52bb75d57247d068c9b71db39fd6e4a59206382085cfb802f150fe74"
 
@@ -3162,7 +3166,7 @@ hash = "86a7d1aedc582604057fe23eed46a91e65484eb308945fa94d07567e61f5bf67"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla/vanilla.js"
-hash = "4fd590a1ad927ad1cff51323bb3f01354cb78edd3c3841c8c5e4fc789ce0c90a"
+hash = "73f723ece02a4f58297cb4ddbee454a617cc468ef0604148d8b8f8033b1bf2d4"
 
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
@@ -3351,6 +3355,16 @@ hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "f8d0d0bb35598ebff78d864cdf8e3bc9eba90b979423b24d1f7d6bfd8767dcf8"
 metafile = true
@@ -3447,7 +3461,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "1da8725ebba0cc2fe55def42e80e28020b69fa3fed7b01bd63b1f964c73bfef8"
+hash = "8cecb4d2306b6e94ba4b92c5b1f42bb59a8471363ddb92724cc71f5cf7c7a211"
 metafile = true
 
 [[files]]
