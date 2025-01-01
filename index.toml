@@ -257,10 +257,6 @@ file = "config/inventoryessentials-common.toml"
 hash = "2696133bf8a18d3811868bbbc8bba93a3d79dda3aadeaa81ed78984b0538833b"
 
 [[files]]
-file = "config/inventorysorter-client.toml"
-hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
-
-[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "593c98f5249b3954eb8e1bd7e6cd6e8cfa25ac32b5b62c1b046341ca4b262e47"
 
@@ -3166,7 +3162,7 @@ hash = "86a7d1aedc582604057fe23eed46a91e65484eb308945fa94d07567e61f5bf67"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla/vanilla.js"
-hash = "73f723ece02a4f58297cb4ddbee454a617cc468ef0604148d8b8f8033b1bf2d4"
+hash = "30290c3bb111a753e4c6f8c1e03a229f494266bb5ca9e94525cc558384d3b10a"
 
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
@@ -3370,6 +3366,11 @@ hash = "f8d0d0bb35598ebff78d864cdf8e3bc9eba90b979423b24d1f7d6bfd8767dcf8"
 metafile = true
 
 [[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "b66e6426e51f9ecfb555adb91e21fcf75a50a8585efbff0c2437af8835ef5af7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
 metafile = true
@@ -3485,8 +3486,8 @@ hash = "fd0787257d819af194fc1ef52c17d72b1d9e20d5102c5b7d151fd52a1459365d"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter-configurable.pw.toml"
-hash = "54a9de45f06ffa293e98b341a3e60ac1d993e7c42b18ab4648d3ec8bc9671566"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5b856225d1705d8a6b237536d1226b2b8df83698e5790d8613237d52a24a6a15"
 metafile = true
 
 [[files]]
@@ -3511,12 +3512,17 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
