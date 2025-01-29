@@ -55,6 +55,7 @@ ServerEvents.recipes((event) => {
       "kubejs:rifle_base",
       "16x gtceu:black_steel_plate",
       "4x gtceu:stainless_steel_plate",
+      "4x gtceu:red_steel_plate",
       "32x gtceu:steel_bolt"
     )
     .itemOutputs(
@@ -73,6 +74,7 @@ ServerEvents.recipes((event) => {
       "16x gtceu:black_steel_plate",
       "4x gtceu:treated_wood_plate",
       "4x gtceu:stainless_steel_plate",
+      "4x gtceu:red_steel_plate",
       "8x gtceu:steel_bolt"
     )
     .itemOutputs(

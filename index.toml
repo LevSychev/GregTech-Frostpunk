@@ -41,6 +41,26 @@ file = "config/clienttweaks-common.toml"
 hash = "f6a538fbda329bea19292131ca13165c49895261f59afccd33374cc974a21b35"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "e8402fde22604aee6b34d53f992119bb34e5659ff1f04c7c504ee6d4f99a3a2b"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "47f2a6d1f3bf97e13fca53737c63e75aa0fec88d20490e3656625889deee24bb"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "3f14e62e90b0a8d76aa28c2fce2a1d22023f0e421e8527ba8a8d3fb4a6781e11"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "3ec9997575941daa4ccb5f34668c3d598814f81d013c25909335be87de3a5506"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "39461e838bc0c2867e6acd817fd9d6800f78c234152da43f93deb25cd9822398"
+
+[[files]]
 file = "config/cpm.json"
 hash = "9aa959af8b8ec5eb0b7152edcb9b71d3f199d5c8a0e507cf0795929649d01f5e"
 
@@ -255,6 +275,14 @@ hash = "5461e6a5d55833ac4e7c4147a41661fa77ae4b921e7beae7f1d307416a7c517a"
 [[files]]
 file = "config/inventoryessentials-common.toml"
 hash = "2696133bf8a18d3811868bbbc8bba93a3d79dda3aadeaa81ed78984b0538833b"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "26930c2397b0d79875f3247cf688a67317986fe3e956bec3aa15af380048a306"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -3102,7 +3130,7 @@ hash = "c0f7355c24b9f386b34837722efd54b4205ebdb7fcd406cefd31d796a3b4a2ec"
 
 [[files]]
 file = "kubejs/server_scripts/removals.js"
-hash = "31d030ebbea417bfaf757fdadf00075c5189fe125b84b85809352f6dff9ec1b1"
+hash = "0c05e5a7741f98fcbe2a82ea13021d075e7828ef5119ed872e7c5bccc5876bd0"
 
 [[files]]
 file = "kubejs/server_scripts/sophisticated_backpacks/backpacks.js"
@@ -3122,15 +3150,15 @@ hash = "bd13a7b35349d3003e0f33d71223e22f74beae731b5a5805b4e556c59ac8c3f4"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/ammo.js"
-hash = "2d3c8d28cf73f550b6ce3860dd4a33052355f09dcd70942666dc70f8c02eabca"
+hash = "15e7f2f1f42e15d5572160809ece965a72d689ddb5ddc55e68ac8e8f76814ff9"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
-hash = "2110f5d6d293b7954669777ffd6a166ab8f90c80e0a4f2dd798ad8eb5ceb9b8a"
+hash = "e421767128a8aca3f651fea125c02bf2efd87cc91bffe1781c7c8f37b73bdd6a"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
-hash = "a0721979070f264612365aaab6d7be2d5338f04ffc0106f9b23ee61afb7eac5d"
+hash = "b283a00eed31d923dee6ac120fc4e4d5d4626fc072d475816e0830b2153a75bd"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/intermediates.js"
@@ -3162,7 +3190,7 @@ hash = "86a7d1aedc582604057fe23eed46a91e65484eb308945fa94d07567e61f5bf67"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla/vanilla.js"
-hash = "30290c3bb111a753e4c6f8c1e03a229f494266bb5ca9e94525cc558384d3b10a"
+hash = "b1af6bb679887d9a1e00e6249c4a73bbb6e5fa8a690b4a455d4fcbe0896a5906"
 
 [[files]]
 file = "kubejs/startup_scripts/components/hsla-steel.js"
@@ -3298,6 +3326,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "42e84e0d8c6d1a49117b82b044c6663d0029702681da437034bc4fec9887d62e"
 metafile = true
 
 [[files]]

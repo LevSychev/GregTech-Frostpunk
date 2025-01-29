@@ -34,7 +34,7 @@ ServerEvents.recipes((event) => {
       "6x gtceu:treated_wood_plate",
       "4x gtceu:steel_screw",
       "#gtceu:circuits/mv",
-      "8x gtceu:aluminium_turbine_blade",
+      "2x gtceu:aluminium_turbine_blade",
       "4x gtceu:rubber_plate",
       "4x gtceu:polyethylene_plate"
     )
@@ -51,7 +51,7 @@ ServerEvents.recipes((event) => {
       "6x gtceu:treated_wood_plate",
       "4x gtceu:steel_screw",
       "#gtceu:circuits/mv",
-      "8x gtceu:aluminium_turbine_blade",
+      "2x gtceu:aluminium_turbine_blade",
       "4x gtceu:rubber_plate",
       "4x gtceu:polyethylene_plate"
     )

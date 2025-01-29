@@ -33,7 +33,7 @@ ServerEvents.recipes((event) => {
     .itemInputs(
       "gtceu:steel_plate",
       "gtceu:diamond_lens",
-      "forge:dusts/redstone"
+      "#forge:dusts/redstone"
     )
     .itemOutputs(
       Item.of("tacz:attachment", '{AttachmentId:"tacz:scope_lpvo_1_6"}')
