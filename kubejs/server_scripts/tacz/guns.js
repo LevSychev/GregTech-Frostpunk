@@ -56,7 +56,7 @@ ServerEvents.recipes((event) => {
       "16x gtceu:black_steel_plate",
       "4x gtceu:stainless_steel_plate",
       "4x gtceu:red_steel_plate",
-      "32x gtceu:steel_bolt"
+      "32x gtceu:titanium_bolt"
     )
     .itemOutputs(
       Item.of(
@@ -75,7 +75,7 @@ ServerEvents.recipes((event) => {
       "4x gtceu:treated_wood_plate",
       "4x gtceu:stainless_steel_plate",
       "4x gtceu:red_steel_plate",
-      "8x gtceu:steel_bolt"
+      "8x gtceu:titanium_bolt"
     )
     .itemOutputs(
       Item.of(

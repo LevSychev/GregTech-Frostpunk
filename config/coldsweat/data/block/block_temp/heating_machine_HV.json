@@ -1,0 +1,19 @@
+{
+    "blocks":[
+        "gtceu:hv_electric_heater"
+    ], 
+    "temperature":1.4,
+    "max_effect":1.4,
+    "fade":true,
+    "range":9,
+    "conditions":[
+        {
+        "nbt": {
+            "overclockTier": 3,
+            "recipeLogic":{
+                "status":"WORKING"    
+                }
+            }
+        }   
+    ]
+}

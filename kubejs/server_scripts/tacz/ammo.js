@@ -3,17 +3,27 @@ ServerEvents.recipes((event) => {
 
   greg
     .assembler("tacz-greg:ammo_9mm")
-    .itemInputs("10x gtceu:copper_plate", "2x minecraft:gunpowder")
+    .itemInputs(
+      "10x gtceu:copper_plate",
+      "2x minecraft:gunpowder",
+      "60x gtceu:lead_nugget"
+    )
     .itemOutputs(Item.of("60x tacz:ammo", '{AmmoId:"tacz:9mm"}'))
     .duration(100)
-    .EUt(24);
+    .EUt(24)
+    .circuit(1);
 
   greg
     .assembler("tacz-greg:ammo_762x39")
-    .itemInputs("15x gtceu:copper_plate", "3x minecraft:gunpowder")
+    .itemInputs(
+      "15x gtceu:copper_plate",
+      "3x minecraft:gunpowder",
+      "45x gtceu:lead_nugget"
+    )
     .itemOutputs(Item.of("45x tacz:ammo", '{AmmoId:"tacz:762x39"}'))
     .duration(100)
-    .EUt(24);
+    .EUt(24)
+    .circuit(2);
 
   greg
     .assembler("tacz-greg:ammo_50bmg")
@@ -21,16 +31,19 @@ ServerEvents.recipes((event) => {
       "64x gtceu:copper_plate",
       "24x minecraft:gunpowder",
       "16x gtceu:iron_plate",
-      "4x minecraft:blaze_powder"
+      "4x minecraft:blaze_powder",
+      "24x gtceu:lead_nugget"
     )
     .itemOutputs(Item.of("24x tacz:ammo", '{AmmoId:"tacz:50bmg"}'))
     .duration(100)
-    .EUt(24);
+    .EUt(24)
+    .circuit(3);
 
   greg
     .assembler("tacz-greg:ammo_rpg_rocket")
     .itemInputs("6x gtceu:iron_plate", "12x minecraft:gunpowder")
     .itemOutputs(Item.of("3x tacz:ammo", '{AmmoId:"tacz:rpg_rocket"}'))
     .duration(100)
-    .EUt(24);
+    .EUt(24)
+    .circuit(4);
 });

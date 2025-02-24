@@ -11,6 +11,12 @@
         "item": "minecraft:gunpowder"
       },
       "count": 3
+    },
+    {
+      "item": {
+        "item": "gtceu:lead_nugget"
+      },
+      "count": 45
     }
   ],
   "result": {

@@ -1,0 +1,18 @@
+{
+    "blocks":[
+        "gtceu:cupronickel_coil_block"
+    ], 
+    "temperature":1.2,
+    "max_effect":1.5,
+    "fade":true,
+    "range":2,
+    "conditions":[
+    {
+        "state":
+        {
+            "active":true
+        }
+    }
+        
+    ]
+}

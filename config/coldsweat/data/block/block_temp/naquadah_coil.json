@@ -1,0 +1,18 @@
+{
+    "blocks":[
+        "gtceu:naquadah_coil_block"
+    ], 
+    "temperature":1.7,
+    "max_effect":2.0,
+    "fade":true,
+    "range":6,
+    "conditions":[
+    {
+        "state":
+        {
+            "active":true
+        }
+    }
+        
+    ]
+}

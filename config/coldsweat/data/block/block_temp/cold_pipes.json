@@ -1,0 +1,31 @@
+{
+    "blocks":[
+        "#gtceu:fluid_pipes"
+    ], 
+    "temperature":-1.5,
+    "max_effect":1.5,
+    "fade":true,
+    "range":4,
+    "conditions":[
+    {
+        "nbt": {
+            "Fluids":[
+                {
+                    "FluidName":
+                    {
+                        "cs:any_of":[
+                            "gtceu:ice",
+                            "gtceu:liquid_helium",
+                            "gtceu:liquid_oxygen",
+                            "gtceu:liquid_air",
+                            "gtceu:liquid_nether_air",
+                            "gtceu:liquid_ender_air"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+        
+    ]
+}

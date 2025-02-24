@@ -1,0 +1,18 @@
+{
+    "blocks":[
+        "gtceu:rtm_alloy_coil_block"
+    ], 
+    "temperature":1.5,
+    "max_effect":1.8,
+    "fade":true,
+    "range":5,
+    "conditions":[
+    {
+        "state":
+        {
+            "active":true
+        }
+    }
+        
+    ]
+}

@@ -14,7 +14,7 @@
 	],
 ]
 #Defines the temperature of a dimension, overriding all other biome and dimension temperatures/settings
-"Dimension Temperatures" = [["minecraft:overworld", -10, "C"]]
+"Dimension Temperatures" = [["minecraft:overworld", -20, "C"]]
 
 #Format: [["biome_1", <low-temp>, <high-temp>, <*units>], ["biome_2", <low-temp>, <high-temp>, <*units>]... etc]
 #low-temp: The temperature of the biome at midnight
@@ -502,7 +502,7 @@
 #Note: This will not change anything unless blocks are configured to utilize the expanded range
 #This value is capped at 16 for performance reasons
 #Range: 1 ~ 16
-"Block Range" = 7
+"Block Range" = 12
 #When set to true, uses Cold Sweat's temperature system to determine water freezing behavior
 "Custom Freezing Behavior" = true
 #When set to true, modifies ice blocks to be harvestable with a pickaxe

@@ -1,0 +1,18 @@
+{
+    "blocks":[
+        "gtceu:trinium_coil_block"
+    ], 
+    "temperature":1.8,
+    "max_effect":2.5,
+    "fade":true,
+    "range":6,
+    "conditions":[
+    {
+        "state":
+        {
+            "active":true
+        }
+    }
+        
+    ]
+}

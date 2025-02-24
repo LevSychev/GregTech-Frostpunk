@@ -248,6 +248,46 @@ Hearth = [
 #See Insulation Ingredients for formatting
 "Insulating Armor" = [
 	[
+		"gtceu:nanomuscle_leggings",
+		6,
+		0,
+	],
+	[
+		"gtceu:nanomuscle_boots",
+		6,
+		0,
+	],
+	[
+		"gtceu:nanomuscle_chestplate",
+		6,
+		0,
+	],
+	[
+		"gtceu:nanomuscle_helmet",
+		6,
+		0,
+	],
+	[
+		"gtceu:quarktech_leggings",
+		10,
+		10,
+	],
+	[
+		"gtceu:quarktech_boots",
+		10,
+		10,
+	],
+	[
+		"gtceu:quarktech_chestplate",
+		10,
+		10,
+	],
+	[
+		"gtceu:quarktech_helmet",
+		10,
+		10,
+	],
+	[
 		"minecraft:leather_helmet",
 		4,
 		4,

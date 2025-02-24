@@ -45,12 +45,72 @@ file = "config/coldsweat/client.toml"
 hash = "e8402fde22604aee6b34d53f992119bb34e5659ff1f04c7c504ee6d4f99a3a2b"
 
 [[files]]
+file = "config/coldsweat/data/block/block_temp/cold_pipes.json"
+hash = "3612800b52db541fd4ab86f3653fea8969bbca99acd9a12c54a262a224c8d3f6"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/cuni_coil.json"
+hash = "ede579a33428ac23b52e67df032c892b67504a46973ef25a68fcdca70128d510"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/heating_machine_HV.json"
+hash = "708c8c3534d2dfc8f57750be3f1734ede46c39ced87c0c2b792dffdae437a01a"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/heating_machine_MV.json"
+hash = "9c2cace5b41d00a5ec3ec25f19125b0d92c11bab3c4b2ca1e3fdf179c56c99ef"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/heating_machine_lv.json"
+hash = "5401305974c495bb859ca533db0cac2eda6198132f0c9baa30508ed823cca786"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/hot_pipes.json"
+hash = "74fb06f87fa9bf2956ae97750d0e712c841cd5992c26b80fe50f5dc155b71c52"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/hssg_coil.json"
+hash = "e5d516e2434dc35b4a3faab6aa30a24d3b7d0af5afc14c45c761e59427689cb1"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/kanthal_coil.json"
+hash = "3b94ef56429bcee7be6ac1d017d4fa5bd6c5b4c0328dfae54128b02535c7027c"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/naquadah_coil.json"
+hash = "42831334d5e3dbdde70e7fb64df5bf1283cb111997287bd368df24976c2a353d"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/nichroma_coil.json"
+hash = "18e9b98378295e916be060dec8a854ff5f41eb8338140df3fa8febd7a578b8e7"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/rtm_coil.json"
+hash = "46d3f81522c9dfb14ac904f54f38b3f99248885bbcf238347e471cc8423b9ef8"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/steam_age_heaters.json"
+hash = "7af967d5626947c6ac209564fb7d215d656768593450ab9a27f9d631db1d2c9e"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/trinium_coil.json"
+hash = "2ac89c676ea7c972c521374b2001b4f9319ca4254b04dcf2ee018f7b2c01bcd4"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/tritanium_coil.json"
+hash = "c04ebca35d1e4b968291c9526ad90e4ed9c663032fd29ef51bc5f8440bfb7a94"
+
+[[files]]
+file = "config/coldsweat/data/block/block_temp/very_hot_pipes.json"
+hash = "723bd76d55b9dcdf67180366fbfc82ead0cea8e325b3f77449d2a4a7239e3924"
+
+[[files]]
 file = "config/coldsweat/entity.toml"
 hash = "47f2a6d1f3bf97e13fca53737c63e75aa0fec88d20490e3656625889deee24bb"
 
 [[files]]
 file = "config/coldsweat/item.toml"
-hash = "3f14e62e90b0a8d76aa28c2fce2a1d22023f0e421e8527ba8a8d3fb4a6781e11"
+hash = "32f66d3f95089e47fc16521f2ce6f995aaa56d17f13cb889502a5de978f2f63a"
 
 [[files]]
 file = "config/coldsweat/main.toml"
@@ -58,7 +118,7 @@ hash = "3ec9997575941daa4ccb5f34668c3d598814f81d013c25909335be87de3a5506"
 
 [[files]]
 file = "config/coldsweat/world.toml"
-hash = "39461e838bc0c2867e6acd817fd9d6800f78c234152da43f93deb25cd9822398"
+hash = "d9ffc3df07bebd73824de7e3d8092dd733cc65cc54c69e798d10e6a0af70fc98"
 
 [[files]]
 file = "config/cpm.json"
@@ -1294,15 +1354,15 @@ hash = "954066beffcd772abe9380790520674ce6115faf4ebc78075b647f20d2f48336"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/50bmg.json"
-hash = "af5ceec89d65308af7279ea9b52a959216652c66b16aea95e8255dc99e7de9d5"
+hash = "0e334e5b642a29671a5aa3941c406a42b7ebc3a62b0280eeca91c80f42048241"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/762x39.json"
-hash = "1f497e21e7df049d0600f7f0032e96333ad0a9e46d89f98b73b3c863a4b3d39c"
+hash = "4ba21639305dc47f57a35c38d7c92acf1f471ae8451d4564782fa5f50676c3ea"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/9mm.json"
-hash = "4206e7ea8dad554d942c98db7f273a0d039bd5368ead3665198e7c0bed2a22fc"
+hash = "9285c345ad3a079fb66be7c26f38ebaaecf67b557923d5fae012e0bd0f76069f"
 
 [[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/recipes/ammo/rpg_rocket.json"
@@ -3089,12 +3149,16 @@ file = "kubejs/server_scripts/building/xtones.js"
 hash = "8b7f2f0a99a9e45d6d4997a99e984f0a8502916fd26b11ec3fca87df398d4d19"
 
 [[files]]
+file = "kubejs/server_scripts/cold_sweat/edits.js"
+hash = "d32c8d2ea712ddcacceaacbf1da8a87d092a7001792fcb7737b8d4b5d0299cd9"
+
+[[files]]
 file = "kubejs/server_scripts/ender_storage.js"
 hash = "fff340eaab79c1b5054c16d7d0ef4fd2b6d977cceecb4e33f7f2a4a85f229b3e"
 
 [[files]]
 file = "kubejs/server_scripts/food.js"
-hash = "04b7fa19500a2f57ec6712db3894d921af634bcee179c25a5461357f116b0295"
+hash = "a66bce04692281af13def6d3d5593b673070c26504035c39b976d7df3dad95dc"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/components.js"
@@ -3105,8 +3169,12 @@ file = "kubejs/server_scripts/gregtech/greenhouse.js"
 hash = "adae0e40013f2c6cecd213c106f0f3f7cdafc04edda8e3bf24ab5bb856f9d06e"
 
 [[files]]
+file = "kubejs/server_scripts/gregtech/heating.js"
+hash = "687e086bd464845d006fff7cb491df1aab0de87f94b40bc7ca7d9dc8e0b06aa4"
+
+[[files]]
 file = "kubejs/server_scripts/gregtech/machines.js"
-hash = "e533b6ba1ecf4b040a381378904cbaa71ca1071de3c7f000991c7cf08e91f71c"
+hash = "ea315f18075492c81c231b3ab08e754b78d099832a02b8346907a2edb95c44a0"
 
 [[files]]
 file = "kubejs/server_scripts/gregtech/temporary_fixes.js"
@@ -3150,7 +3218,7 @@ hash = "bd13a7b35349d3003e0f33d71223e22f74beae731b5a5805b4e556c59ac8c3f4"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/ammo.js"
-hash = "15e7f2f1f42e15d5572160809ece965a72d689ddb5ddc55e68ac8e8f76814ff9"
+hash = "9904293b827a184d86eb44c27c00c8deff1fae99648d2a8aace720aad49aaf19"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/attachments.js"
@@ -3158,7 +3226,7 @@ hash = "e421767128a8aca3f651fea125c02bf2efd87cc91bffe1781c7c8f37b73bdd6a"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/guns.js"
-hash = "b283a00eed31d923dee6ac120fc4e4d5d4626fc072d475816e0830b2153a75bd"
+hash = "8ff367328e548e50a490557fd902d1411bf20fca1e76e3a3fea8676bb9958d29"
 
 [[files]]
 file = "kubejs/server_scripts/tacz/intermediates.js"
@@ -3173,12 +3241,20 @@ file = "kubejs/server_scripts/tags/blocks.js"
 hash = "c417de4bec2c58d7bebf541af6d5e00791852df1c153e2d7772515f4b2c35818"
 
 [[files]]
+file = "kubejs/server_scripts/tags/greg_fluid_pipes_tag.js"
+hash = "c395d66083af668542722bf2d72631fd8dfbe9a1635a79950b53eb5f5724a9a3"
+
+[[files]]
 file = "kubejs/server_scripts/tags/gregtech.js"
 hash = "e586325a5342247db88d21d5f040540c26134ac9dd0c1f55bf0d79b2c8ae1585"
 
 [[files]]
 file = "kubejs/server_scripts/tags/items.js"
 hash = "c3d121f2c0a775cf83d6f22ec519def5e680df80e1b9584fe6b4daee53a6ca63"
+
+[[files]]
+file = "kubejs/server_scripts/tags/steam_age_heaters.js"
+hash = "854bbf042dce21172b292ede21953d7236cfc646a24a8990b5c9dc37ee6eec1a"
 
 [[files]]
 file = "kubejs/server_scripts/torchmaster.js"
@@ -3198,7 +3274,7 @@ hash = "2df8bceaa0bcb871203b094c657461eb9b78cc4fc20d63d95388d2e1d0f95a2e"
 
 [[files]]
 file = "kubejs/startup_scripts/food_startup.js"
-hash = "f7b7e76ddf40069e3f2b81d0e6ace9b3b97b6b5d12ad0998c0f720f5919f8e8d"
+hash = "052271f6a30c2a9d38d54f146e3259e834b2fede7d69736bb13dc07c805b6f8d"
 
 [[files]]
 file = "kubejs/startup_scripts/icons.js"
@@ -3217,6 +3293,10 @@ file = "kubejs/startup_scripts/machinery/greenhouse.js"
 hash = "f01a4811ba1c2de98fe5da5595c104faeb5396ae2ff64744da777d87fc4c02a3"
 
 [[files]]
+file = "kubejs/startup_scripts/machinery/heating_machines.js"
+hash = "2960ee6b8194be5e208410a461a7aac324cf9d2163cd25cbc49205339b3b9352"
+
+[[files]]
 file = "kubejs/startup_scripts/material_testing/material.js"
 hash = "1251ce19a3fb1d2b029c1cb2b1ed3020e07e514eaad8786b5a3c96e4a1e0713a"
 
@@ -3227,6 +3307,10 @@ hash = "b611e4931649648378da167b2cd2c4574614d4efec579959e2d1c87e995f04af"
 [[files]]
 file = "kubejs/startup_scripts/recipes/greenhouse.js"
 hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
+
+[[files]]
+file = "kubejs/startup_scripts/recipes/heating.js"
+hash = "c076f79222a84025fd3531a0946c0853ecf69ef9c0ad888ed6607358c289a3af"
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
@@ -3330,7 +3414,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "42e84e0d8c6d1a49117b82b044c6663d0029702681da437034bc4fec9887d62e"
+hash = "deee45121f174f98329bdb3212ae82618f1e3c65277ac92f9a2de83c88781bc5"
 metafile = true
 
 [[files]]
@@ -3495,7 +3579,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "8cecb4d2306b6e94ba4b92c5b1f42bb59a8471363ddb92724cc71f5cf7c7a211"
+hash = "a725eb287bd9aeec09b22ef672bd3348cd8da3427e17af7e889bd05482b11897"
 metafile = true
 
 [[files]]
@@ -3605,7 +3689,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
