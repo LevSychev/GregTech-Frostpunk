@@ -2509,6 +2509,50 @@
 			x: 10.0d
 			y: 4.5d
 		}
+		{
+			dependencies: ["1646BF9194100E57"]
+			description: [
+				"Coils emit &cheat&r if they're active, regardless of which multiblock they're a part of. Their effect also stacks!"
+				""
+				"Every next tier of coils emits a bit more &cheat&r and their range increases by 1 every 2 tiers (except kanthal, which has 2 more blocks of range than cupronickel)"
+			]
+			icon: "gtceu:tritanium_coil_block"
+			id: "5828E1721CADA056"
+			tasks: [{
+				id: "055ECFF12A2C2723"
+				title: "Coils!"
+				type: "checkmark"
+			}]
+			title: "Coil heat mechanics"
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4B979482EF026BFF"]
+			description: ["This is the first &cheater&r you can get. Simply connect it to a cable and set the &ecircuit&r to 1"]
+			id: "536981E6BD2921BE"
+			shape: "rsquare"
+			subtitle: "The electric heater heats... electrically"
+			tasks: [{
+				id: "41577016759FA62E"
+				item: "gtceu:lv_electric_heater"
+				type: "item"
+			}]
+			x: 2.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["63CD0236B337EAAD"]
+			description: ["The thermometer will allow you to better track your temperature, as well as the outside temperature"]
+			id: "390C19C40A7DD623"
+			tasks: [{
+				id: "0F6E94275902F951"
+				item: "cold_sweat:thermometer"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
 	]
 	subtitle: ["Tame electricity and make your first machines"]
 	title: "&7LV&r - Low Voltage"

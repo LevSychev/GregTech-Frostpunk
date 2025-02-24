@@ -1703,6 +1703,67 @@
 			x: 4.0d
 			y: 1.0d
 		}
+		{
+			dependencies: ["25289F9E8AE01C29"]
+			description: [
+				"Cold Sweat is a mod that adds &6temperature.&r You'll have to think about keeping yourself and your base warm to survive."
+				""
+				"This mod makes a lot of the vanilla blocks to &cincrease&r or &breduce&r the temperature around them within a certain range (varies block by block). In this modpack, Cold Sweat is also configured to support certain &bGregtech&r machines and fluid pipes."
+				""
+				"For more information, check the Cold Sweat chapter"
+				""
+				"For even more information, check the wiki at: https://github.com/Momo-Softworks/Cold-Sweat/wiki"
+			]
+			icon: "cold_sweat:thermometer"
+			id: "3D64F9F9080536CF"
+			shape: "circle"
+			size: 0.75d
+			tasks: [{
+				id: "3A3F4F41AFED8118"
+				type: "checkmark"
+			}]
+			title: "Cold Sweat"
+			x: -2.25d
+			y: -0.75d
+		}
+		{
+			dependencies: ["3D64F9F9080536CF"]
+			description: [
+				"Armor can be &6insulated&r at the insulation table to reduce the effects of extreme temperatures on the player."
+				""
+				"There's insulation against &bcold (blue bar)&r and &chot (orange bar)&r, which slows the rate at which the player gets &bcold&r or &chot&r respectively."
+				""
+				"Leather armor and &bGregtech&r armor has insulation built-in"
+			]
+			id: "1354F12A0F127DDC"
+			tasks: [{
+				id: "17071AB49DEA42F7"
+				item: "cold_sweat:sewing_table"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3D64F9F9080536CF"]
+			description: [
+				"The Waterskin is a consumable item that changes the player's body temperature when used."
+				""
+				"When inserted into the top slots of an icebox or boiler, the waterskin will gradually &bdecrease&r/&cincrease&r in temeprature."
+				""
+				"&6[Right-click]&r the waterskin to instantly apply its effect"
+				"&6[Shift-right-click]&r to drink it and apply the effect over a short amount of time"
+				"&6Keep&r the waterskin in your hotbar to gradually apply the effect"
+			]
+			id: "1DDE271522408FA1"
+			tasks: [{
+				id: "7D6BEADBF75B1F38"
+				item: "cold_sweat:waterskin"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
 	]
 	subtitle: ["Welcome to &6GTCP&r! Glad to have you here."]
 	title: "Introduction"

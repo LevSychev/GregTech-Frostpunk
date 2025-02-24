@@ -1,0 +1,91 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cold_sweat"
+	group: "288DA1F92F7C0A7A"
+	icon: "cold_sweat:thermometer"
+	id: "48E6022C3A7AF77B"
+	order_index: 4
+	quest_links: [
+		{
+			id: "7DD00785546EBF0A"
+			linked_quest: "3D64F9F9080536CF"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "05AE1AEFCD8C9A7F"
+			linked_quest: "6CE011D37E862E56"
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "0816FF201EF09132"
+			linked_quest: "7DD1EF931C6D9718"
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			id: "4A3F46E893336BF6"
+			linked_quest: "536981E6BD2921BE"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "7706F95B362401B4"
+			linked_quest: "5828E1721CADA056"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "5F8D1932EEB2E4C2"
+			linked_quest: "57854BF77FDF4BB1"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "73689692532985EF"
+			linked_quest: "1354F12A0F127DDC"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "05E0683DE4E3A2F5"
+			linked_quest: "1DDE271522408FA1"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "5684BA016B9C1811"
+			linked_quest: "1C736E5067698A8D"
+			x: -0.5d
+			y: 1.5d
+		}
+	]
+	quests: [{
+		description: [
+			"Aside from taking damage, there are a number of unique negative effects given to the player as their temperature reaches unsafe levels, depending on whether the player is too &chot&r or too &bcold.&r"
+			""
+			"As the player &coverheats,&r they will be afflicted with:"
+			"-Blurred vision "
+			"-Heat fog "
+			"-Randomly swaying camera"
+			""
+			"{@pagebreak}"
+			"As the player &bfreezes,&r they will be afflicted with:"
+			"-Hearts freezing over, reducing max health regeneration "
+			"-Slower movement and mining speed"
+			"-Reduced attack knockback"
+		]
+		icon: "minecraft:ice"
+		id: "61D6AB0213F739E5"
+		tasks: [{
+			id: "34A182E4B911AB49"
+			type: "checkmark"
+		}]
+		title: "Effects of temperature"
+		x: 1.0d
+		y: -0.5d
+	}]
+	title: "Cold Sweat"
+}

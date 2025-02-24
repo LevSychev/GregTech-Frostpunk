@@ -1572,6 +1572,19 @@
 			x: 7.5d
 			y: -6.5d
 		}
+		{
+			dependencies: ["26394C1290D70AB6"]
+			description: ["Basically the next (and last) tier of electric heaters. Simply connect it to a cable and set the &ecircuit&r to 1"]
+			id: "1C736E5067698A8D"
+			subtitle: "The HV electric heater heats... electrically. Even harder"
+			tasks: [{
+				id: "3DED40A66A91DDE5"
+				item: "gtceu:hv_electric_heater"
+				type: "item"
+			}]
+			x: 2.25d
+			y: -4.0d
+		}
 	]
 	subtitle: ["Scale up your power and begin advanced chemistry"]
 	title: "&6HV&r - High Voltage"

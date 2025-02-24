@@ -2384,6 +2384,23 @@
 			x: -1.123469387755101d
 			y: 2.445153061224488d
 		}
+		{
+			dependencies: ["0DBC148D92A9F69F"]
+			description: [
+				"Simply connect it to a cable and set the &ecircuit&r to 1"
+				""
+				"The MV electric heater allows you to overclock the &cheating&r recipe and increase the range and temperature of &cheating.&r"
+			]
+			id: "57854BF77FDF4BB1"
+			subtitle: "The MV electric heater heats... electrically with MV"
+			tasks: [{
+				id: "192A83F9AA8EDAC2"
+				item: "gtceu:mv_electric_heater"
+				type: "item"
+			}]
+			x: -1.125d
+			y: 3.5d
+		}
 	]
 	subtitle: ["Venture into petrochemistry and refine electronics"]
 	title: "&bMV&r - Medium Voltage"
