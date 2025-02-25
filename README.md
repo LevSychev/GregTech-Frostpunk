@@ -5,9 +5,13 @@ A modpack based on Gregtech Community Pack Modern, created for my private server
 ## Additions
 - Primal Winter
 - Timeless and Classics: Zero (with gregified recipes)
+- Cold Sweat
+  - Steam machines emit heat when working
+  - Coils emit heat when they're active in any multiblock
+  - Fluid pipes emit heat/cold depending on the fluid inside (not all fluids supported yet)
 
 ## Planned features
-- Cold Sweat (and config/datapack that makes gregtech machines and pipes emit heat)
+- Support all gregtech fluids
 
 ## Building
 
