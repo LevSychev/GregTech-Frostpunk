@@ -6,7 +6,7 @@ hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "b19efe9f454a79092676204dd1e0dca31103291d09fc657e6d08bb0c9fe06143"
+hash = "140d5476b8e33d40763e2fbb68e96f48d18e64974f11f3515b23e9d600e7b993"
 
 [[files]]
 file = "config/PillagersGun-common.toml"
@@ -66,7 +66,7 @@ hash = "5401305974c495bb859ca533db0cac2eda6198132f0c9baa30508ed823cca786"
 
 [[files]]
 file = "config/coldsweat/data/block/block_temp/hot_pipes.json"
-hash = "74fb06f87fa9bf2956ae97750d0e712c841cd5992c26b80fe50f5dc155b71c52"
+hash = "cae74a72f39308365742259379f58c371bd92f4057c0dba491f5edc7f59f1fe6"
 
 [[files]]
 file = "config/coldsweat/data/block/block_temp/hssg_coil.json"
