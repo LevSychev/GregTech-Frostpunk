@@ -213,12 +213,16 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "cc7b7524a1409711280d59e9af31b93d161cb654981abb0b2ea945111734fd3d"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/cold_sweat.snbt"
+hash = "911ddf4afad24896f560c72728283e511765c63b858af797effe51b611562664"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/ev__extreme_voltage.snbt"
 hash = "9dad87319ba55aa045f37fc16350cd9dcf7826e946419dac6d6bf7f2d5cb607e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gtceu.snbt"
-hash = "d4eb4830abc49d9de08262ff5c3f3986977e77eb6570f717f58b43551c74420b"
+hash = "8f3c78c98ca3e04d47d684d7dcd66bdfc9520ecb96565999ceb3287b3f30385a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/heating_coils.snbt"
@@ -226,7 +230,7 @@ hash = "3de3b8987fbd6652079f9a6f8ff7f0d140753eb94563b31554648a09990d89e1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hv__high_voltage.snbt"
-hash = "6a85ad81673fcaf8724547426b8001be2e2bd6c54eee72115297d98290b43dab"
+hash = "6b315f450ab02f2fa74ff9439fb14d9f9fe953c54d4395ddcdc1237c2ff5144f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv__insane_voltage.snbt"
@@ -238,7 +242,7 @@ hash = "b68e2e3c85c5f70f5f1938e31ec228684cc08e823bca4e4170fb92e9339b2670"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lv__low_voltage.snbt"
-hash = "04338fc21cb260cc240bc6ca37611235f613fb754303a697d96b583bb16fdbbd"
+hash = "c8e5a0a416cabeb444af8b76bbf068c458d0ae6a93b2488f322ccd766497246c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/multiblock_dilemma.snbt"
@@ -246,7 +250,7 @@ hash = "c597f716bb540288bd909925586087298edabb66bf5b65b8f353631f05e295ce"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mv__medium_voltage.snbt"
-hash = "a41e3ed2a36798ee628db634aaa6c828ed3983ebb561cd719e872fbd5258b2d9"
+hash = "f73f4c07952c618bfaea5167d4f352dfaadea7c1b9f1c6264f492a03f03e27d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ore_generation.snbt"
@@ -266,7 +270,7 @@ hash = "070e4c59640dc3014745eb4f2b83f918342a92c7dbec9a44c7e003500de90904"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "ddc3da7208c3e13ff1785cba68150e6a10c7b34eed49a72b371990c155423acc"
+hash = "87e7d41c971c9b770edc50ce732fdba43a2a909262a8bdcb54c16e4b25748f33"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips_and_tricks_2.snbt"
@@ -2989,6 +2993,10 @@ file = "kubejs/assets/gtceu/lang/en_us.json"
 hash = "6f50f194fdacf3297b259459fbc81e5e4defc9cf7a14666a8fefc22cb176b4dc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/buckwheat_porridge.png"
+hash = "8a30e18d7d756258bc518f00394c54183773d1c7c7b43561d3b7b1edc16aac84"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/engine.png"
 hash = "b0782c6cee4be50a7f047c40068ab737b44532055ed3d6fa41c282192e21e262"
 
@@ -3011,6 +3019,10 @@ hash = "cbfd5c48dbbc8eca71b5795ee4011248539ac4e23e542acc475a3493d4a6abfc"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/sawdust_soup.png"
 hash = "390a789956f1004b787c4b9924b6f2a5269a4db02f6445764c48aba01c06e9a3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/uranium_soup.png"
+hash = "1b4d2f84f79e161df55bbdb09a29812e46e47ff2c3b4e6deb16effec8e22c6a0"
 
 [[files]]
 file = "kubejs/assets/sophisticatedbackpacks/lang/en_us.json"

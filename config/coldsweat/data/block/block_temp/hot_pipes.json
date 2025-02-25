@@ -3,7 +3,7 @@
         "#gtceu:fluid_pipes"
     ], 
     "temperature":1.3,
-    "max_effect":1.3,
+    "max_effect":1.5,
     "fade":true,
     "range":5,
     "conditions":[
@@ -14,7 +14,11 @@
                     "FluidName":
                     {
                         "cs:any_of":[
-                            "gtceu:steam"
+                            "gtceu:steam",
+                            "gtceu:lightly_steam_cracked_naphtha",
+                            "gtceu:lightly_steam_cracked_gas",
+                            "gtceu:lightly_steam_cracked_light_fuel",
+                            "gtceu:lightly_steam_cracked_heavy_fuel"
                         ]
                     }
                 }
