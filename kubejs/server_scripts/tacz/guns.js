@@ -50,7 +50,7 @@ ServerEvents.recipes((event) => {
     .circuit(2);
 
   greg
-    .assembler("tacz-greg:M95")
+    .assembler("tacz-greg:m95")
     .itemInputs(
       "kubejs:rifle_base",
       "16x gtceu:black_steel_plate",
